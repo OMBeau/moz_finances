@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,07/01/20,Beginning Balance,4056.94,MZN,1,4056.94,BF - Deposit,BF - DEP,Beginning Balance ,BCI
+2,07/31/20,Close out July,-4056.94,MZN,1,-4056.94,BF - Deposit,BF - DEP,Close out July,BCI
+
+ 

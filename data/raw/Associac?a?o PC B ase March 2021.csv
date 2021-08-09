@@ -1,0 +1,12 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,03/01/21,Beginning Balance,79778.00,MZN,1,79778.00,BF - Deposit,BF - DEP,Beginning Balance ,Associacao Petty Cash Base
+2,03/01/21,Tx to Assoc BCI,-1056.00,MZN,1,-1056.00,BF - Deposit,BF - DEP,Transfer to Assoc. BCI for February bank fees ,Associacao Petty Cash Base
+3,03/02/21,Bailey Base Fees,38136.00,MZN,1,38136.00,BF - Deposit,BF - DEP,March base fees,Associacao Petty Cash Base
+4,03/02/21,Murray Base Fees,19068.00,MZN,1,19068.00,BF - Deposit,BF - DEP,March Base Fees,Associacao Petty Cash Base
+5,03/02/21,Overland Enterprises,-90090.00,MZN,1,-90090.00,"BF - Rent, Other Occupancy",BF - RNT,Rent payment for March ,Associacao Petty Cash Base
+6,03/02/21,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,February accounting ,Associacao Petty Cash Base
+7,03/03/21,Krpicak Base Fees,38136.00,MZN,1,38136.00,BF - Deposit,BF - DEP,March Base Fees,Associacao Petty Cash Base
+8,03/26/21,Ministério da Justiça Conservatória,-100.00,MZN,1,-100.00,BF - Professional Fees,BF - PROF,Document certification (2) Kochens,Associacao Petty Cash Base
+9,03/31/21,Close out March,-80872.00,MZN,1,-80872.00,BF - Deposit,BF - DEP,Close out March,Associacao Petty Cash Base
+
+ 

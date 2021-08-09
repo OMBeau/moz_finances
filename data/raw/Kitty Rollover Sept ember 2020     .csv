@@ -1,0 +1,9 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,09/01/20,Beginning Balance,5074.55,MZN,1,5074.55,BF - Deposit,BF - DEP,Beginning Balance ,Kitty Rollover
+2,09/05/20,Tx from Kitty,302.00,MZN,1,302.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+3,09/13/20,Tx from Kitty,80.50,MZN,1,80.50,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+4,09/20/20,Tx from Kitty,259.00,MZN,1,259.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+5,09/28/20,Tx from Kitty,223.00,MZN,1,223.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+6,09/30/20,Close out September,-5939.05,MZN,1,-5939.05,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+
+ 

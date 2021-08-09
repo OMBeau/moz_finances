@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,06/24/20,Tx from BCI,689384.00,MZN,1,689384.00,BF - Deposit,BF - DEP,Wire,Wall
+2,06/30/20,Close out June,-689384.00,MZN,1,-689384.00,BF - Deposit,BF - DEP,Close out June,Wall
+
+ 

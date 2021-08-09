@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/21,Beginning Balance,80872.00,MZN,1,80872.00,BF - Deposit,BF - DEP,Beginning Balance ,Associacao Petty Cash Base
+2,04/01/21,Murray Base Fees,17697.00,MZN,1,17697.00,BF - Deposit,BF - DEP,April Base Fees ,Associacao Petty Cash Base
+3,04/01/21,Overland Enterprises,-91069.00,MZN,1,-91069.00,"BF - Rent, Other Occupancy",BF - RNT,April Rent payment ,Associacao Petty Cash Base
+4,04/01/21,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,March accounting fees ,Associacao Petty Cash Base
+5,04/02/21,Bailey Base Fees,35394.00,MZN,1,35394.00,BF - Deposit,BF - DEP,April Base Fees,Associacao Petty Cash Base
+6,04/06/21,Krpicak Base Fees,35394.00,MZN,1,35394.00,BF - Deposit,BF - DEP,April Base Fees,Associacao Petty Cash Base
+7,04/30/21,Close out April,-75288.00,MZN,1,-75288.00,BF - Deposit,BF - DEP,Close out April ,Associacao Petty Cash Base
+
+ 

@@ -1,0 +1,17 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,12/01/20,Beginning Balance,165307.50,MZN,1,165307.50,BF - Deposit,BF - DEP,Beginning Balance ,Wall
+2,12/05/20,Domingo Comercial,-100.00,MZN,1,-100.00,BF - Building Supplies,BF - BLDG,1 kg 3” nails,Wall
+3,12/09/20,Construa,-12625.00,MZN,1,-12625.00,BF - Building Supplies,BF - BLDG,25 bag cement @505,Wall
+4,12/09/20,Domingo,-1000.00,MZN,1,-1000.00,BF - Travel & Incidentals,BF - TRV,1x transport cement ,Wall
+5,12/14/20,Beau Krpicak,28000.00,MZN,1,28000.00,BF - Deposit,BF - DEP,Donation to wall ,Wall
+6,12/16/20,Brandon Murray,13250.00,MZN,1,13250.00,BF - Deposit,BF - DEP,Donation ,Wall
+7,12/16/20,Domingo,-12750.00,MZN,1,-12750.00,BF - Building Supplies,BF - BLDG,25 bag cement @510,Wall
+8,12/16/20,Domingo,-500.00,MZN,1,-500.00,BF - Travel & Incidentals,BF - TRV,1x transport cement ,Wall
+9,12/22/20,Brandon Murray,1800.00,MZN,1,1800.00,BF - Deposit,BF - DEP,Donation ,Wall
+10,12/22/20,Domingo,-500.00,MZN,1,-500.00,BF - Travel & Incidentals,BF - TRV,1x transport supplies,Wall
+11,12/22/20,Domingo,-1805.00,MZN,1,-1805.00,BF - Building Supplies,BF - BLDG,"3kg wire @100, 2kg nails @100, 9 8mm steel @145",Wall
+12,12/24/20,Jan Van Niekerk,-40000.00,MZN,1,-40000.00,BF - Contract Temporary Help,BF - CNT,Final payment contract labor wall,Wall
+13,12/24/20,Augusto Rungo,-139000.00,MZN,1,-139000.00,BF - Contract Temporary Help,BF - CNT,Final payment contract labor wall,Wall
+14,12/31/20,Close out December,-77.50,MZN,1,-77.50,BF - Deposit,BF - DEP,Close out December ,Wall
+
+ 

@@ -1,0 +1,14 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,08/01/20,Beginning Balance,8030.55,MZN,1,8030.55,BF - Accounting Fees,BF - ACCT,Beginning Balance ,Kitty Rollover
+2,08/03/20,Tx from Kitty,623.00,MZN,1,623.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+3,08/10/20,Tx from Kitty,21.00,MZN,1,21.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+4,08/12/20,Sammy,-2300.00,MZN,1,-2300.00,BF - Grocery & Other Supplies,BF - SUPP,Fish ,Kitty
+5,08/17/20,Tx from Kitty,1766.00,MZN,1,1766.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+6,08/18/20,Machavenga,-2608.00,MZN,1,-2608.00,BF - Grocery & Other Supplies,BF - SUPP,"Dish soap, flour, TP, Cooking Oil",Kitty Rollover
+7,08/18/20,Agua Para Amigos,-400.00,MZN,1,-400.00,BF - Grocery & Other Supplies,BF - SUPP,40ltr water refills ,Kitty Rollover
+8,08/22/20,Comercio Azul,-399.00,MZN,1,-399.00,BF - Grocery & Other Supplies,BF - SUPP,Butter ,Kitty Rollover
+9,08/24/20,Tx from Kitty,105.00,MZN,1,105.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+10,08/31/20,Tx from Kitty,236.00,MZN,1,236.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+11,08/31/20,Close out August,-5074.55,MZN,1,-5074.55,BF - Deposit,BF - DEP,Close out August ,Kitty Rollover
+
+ 

@@ -1,0 +1,29 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,12/01/20,Beginning Balance,1238.00,MZN,1,1238.00,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,12/01/20,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary,Base
+3,12/01/20,EDM,-1000.00,MZN,1,-1000.00,BF - Utilities,BF - UTL,Electricity ,Base
+4,12/02/20,Associação África Missions,80905.00,MZN,1,80905.00,BF - Deposit,BF - DEP,Rent for December ,Base
+5,12/02/20,Tx to Base Savings Budget,-4240.00,MZN,1,-4240.00,BF - Deposit,BF - DEP,Taxes ,Base
+6,12/02/20,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay & 13th month,Base
+7,12/03/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+8,12/03/20,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,November accounting fees ,Base
+9,12/03/20,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS,Base
+10,12/04/20,Machavenga,-4703.00,MZN,1,-4703.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Pool cleaning supplies ,Base
+11,12/11/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+12,12/12/20,Gindolo,-905.00,MZN,1,-905.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Wd40 and ant poison,Base
+13,12/14/20,Gindolo,-4030.00,MZN,1,-4030.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Sanding discs and varnish for Smethurst furniture ,Base
+14,12/16/20,AMS Office,-510.00,MZN,1,-510.00,BF - Office Supplies,BF - OFSUPP,Binders  for Somoconta ,Base
+15,12/16/20,Gindolo,-7250.00,MZN,1,-7250.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,New pressure  pump behind villa ,Base
+16,12/16/20,Michael Porter,189.50,MZN,1,189.50,BF - Deposit,BF - DEP,Deposit ,Base Savings Spending
+17,12/22/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+18,12/26/20,Domingo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+19,12/26/20,AMG,-1800.00,MZN,1,-1800.00,BF - Utilities,BF - UTL,Diesel for generator ,Base
+20,12/26/20,Comercio Azul,-229.00,MZN,1,-229.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Pool shock ,Base
+21,12/31/20,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,December manager salary ,Base
+22,12/31/20,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,December salary ,Base
+23,12/31/20,Jose Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,December salary,Base
+24,12/31/20,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,December salary ,Base
+25,12/31/20,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,December salary ,Base
+26,12/31/20,Close out December,-163.50,MZN,1,-163.50,BF - Deposit,BF - DEP,Close out December ,Base
+
+ 

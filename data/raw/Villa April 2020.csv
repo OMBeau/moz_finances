@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,64846.00,MZN,1,64846.00,BF - Deposit,BF - DEP,Beginning Balance ,Villa
+2,04/01/20,J.M. Trading,-15480.00,MZN,1,-15480.00,BF - Building Supplies,BF - BLDG,Primer for outdoor villa,Villa
+3,04/01/20,J.M. Trading,-23653.00,MZN,1,-23653.00,BF - Building Supplies,BF - BLDG,Paint for outdoor villa ,Villa
+4,04/29/20,Gindolo,-2480.00,MZN,1,-2480.00,BF - Building Supplies,BF - BLDG,Red oxide paint 5L,Villa
+5,04/29/20,Domingo,-1440.00,MZN,1,-1440.00,BF - Building Supplies,BF - BLDG,Cement and sand ,Villa
+6,04/29/20,Domingo,-500.00,MZN,1,-500.00,BF - Travel & Incidentals,BF - TRV,Transport ,Villa
+7,04/30/20,Close out month,-21293.00,MZN,1,-21293.00,BF - Deposit,BF - DEP,Remaining balance ,Villa
+
+ 

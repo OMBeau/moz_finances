@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,02/01/21,Beginning Balance,77.50,MZN,1,77.50,BF - Deposit,BF - DEP,Beginning Balance ,Wall
+2,02/28/21,Close out February,-77.50,MZN,1,-77.50,BF - Deposit,BF - DEP,Close out February ,Wall
+
+ 

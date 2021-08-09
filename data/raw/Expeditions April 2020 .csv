@@ -1,0 +1,29 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,36031.00,MZN,1,36031.00,BF - Deposit,BF - DEP,Beginning Balance ,AMT
+2,04/01/20,Tx from Associação BCI,252256.00,MZN,1,252256.00,BF - Deposit,BF - DEP,April Wire AMT,AMT
+3,04/02/20,Tx to Base Bag,-18371.00,MZN,1,-18371.00,BF - Building Supplies,BF - BLDG,Reimbursement for workshop clasd supplies ,AMT
+4,04/02/20,Tx to Base Bag,-42761.50,MZN,1,-42761.50,BF - Deposit,BF - DEP,3 people 24 days 1 person 9 days,AMT
+5,04/02/20,Tx to Kitty,-10080.00,MZN,1,-10080.00,BF - Grocery & Other Supplies,BF - SUPP,5 days kitty ,AMT
+6,04/02/20,Tx to Base Bag,-3589.00,MZN,1,-3589.00,BF - Telecommunications,BF - TELE,Internet for April,AMT
+7,04/06/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Grocery & Other Supplies,BF - SUPP,One week AMT kitty fees ,AMT
+8,04/06/20,Gindolo,-2800.00,MZN,1,-2800.00,BF - Building Supplies,BF - BLDG,Sanding sealer,AMT
+9,04/13/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Deposit,BF - DEP,AMT one week kitty,AMT
+10,04/13/20,Babalaza Shop,-1000.00,MZN,1,-1000.00,BF - Grocery & Other Supplies,BF - SUPP,Firewood Bush Cooking,AMT
+11,04/20/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Grocery & Other Supplies,BF - SUPP,One week kitty fees ,AMT
+12,04/20/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for revival week streaming ,AMT
+13,04/20/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for revival week streaming,AMT
+14,04/22/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for revival week streaming ,AMT
+15,04/22/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for revival week streaming ,AMT
+16,04/22/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for revival week streaming ,AMT
+17,04/22/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for revival week streaming,AMT
+18,04/22/20,Chill at Farol,-5939.00,MZN,1,-5939.00,BF - Entertainment & Meals,BF- ENTML,Takeaway meals ,AMT
+19,04/23/20,N.S. Sociedade Unipessoal,-30000.00,MZN,1,-30000.00,BF - Telecommunications,BF - TELE,AMT TV,AMT
+20,04/26/20,Tx to Overland Enterprise base,-12864.00,MZN,1,-12864.00,BF - Deposit,BF - DEP,AMT Base Fees for 6 days,AMT
+21,04/27/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Deposit,BF - DEP,4 Days Kitty Fees AMT,AMT
+22,04/29/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+23,04/29/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+24,04/29/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+25,04/29/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+26,04/30/20,Close out month,-99434.50,MZN,1,-99434.50,BF - Deposit,BF - DEP,Remaining balance ,AMT
+
+ 

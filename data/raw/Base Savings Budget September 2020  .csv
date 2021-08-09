@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,09/01/20,Beginning Balance,132050.00,MZN,1,132050.00,BF - Deposit,BF - DEP,Beginning Balance ,Base Savings Budget
+2,09/01/20,Tx from Base Bag,2000.00,MZN,1,2000.00,BF - Deposit,BF - DEP,Taxes ,Base Savings Budget
+3,09/01/20,Tx from Base Bag,7150.00,MZN,1,7150.00,BF - Deposit,BF - DEP,Sev Pay September ,Base Savings Budget
+4,09/30/20,Municipal,-20300.00,MZN,1,-20300.00,BF - Taxes,BF - TAX,Land Tax ,Base Savings Budget
+5,09/30/20,Municipal,-3400.00,MZN,1,-3400.00,BF - Taxes,BF - TAX,Activity Tax,Base Savings Budget
+6,09/30/20,Gabriel Carlos,5000.00,MZN,1,5000.00,"BF - Honorariums, Gifts, Scholarship",BF - HNR,Partial re-payment of loan ,Base Savings Budget
+7,09/30/20,Close out September,-122500.00,MZN,1,-122500.00,BF - Deposit,BF - DEP,Close out September ,Base Savings Budget
+
+ 

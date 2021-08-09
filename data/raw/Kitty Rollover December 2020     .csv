@@ -1,0 +1,7 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,12/01/20,Beginning Balance,7114.05,MZN,1,7114.05,BF - Accounting Fees,BF - ACCT,Beginning Balance ,Kitty Rollover
+2,12/12/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Kitty Rollover
+3,12/14/20,Tx from Kitty,73.50,MZN,1,73.50,BF - Deposit,BF - DEP,Remaining balance from previous week,Kitty Rollover
+4,12/31/20,Close out December,-5187.55,MZN,1,-5187.55,BF - Deposit,BF - DEP,Close out December ,Kitty Rollover
+
+ 

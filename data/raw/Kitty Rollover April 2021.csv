@@ -1,0 +1,8 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/21,Beginning Balance,5187.55,MZN,1,5187.55,BF - Deposit,BF - DEP,Beginning Balance ,Kitty Rollover
+2,04/12/21,Tx from Kitty,92.00,MZN,1,92.00,BF - Deposit,BF - DEP,Leftover balance from kitty ,Kitty Rollover
+3,04/12/21,Wang Rong,-470.00,MZN,1,-470.00,BF - Grocery & Other Supplies,BF - SUPP,(2) 10pk toilet paper ,Kitty Rollover
+4,04/19/21,Tx from Kitty,42.00,MZN,1,42.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+5,04/30/21,Close out April,-4851.55,MZN,1,-4851.55,BF - Deposit,BF - DEP,Close out April ,Kitty Rollover
+
+ 

@@ -1,0 +1,48 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,09/01/20,Beginning Balance,814909.00,MZN,1,814909.00,BF - Deposit,BF - DEP,Beginning Balance ,Wall
+2,09/01/20,Domingo,-500.00,MZN,1,-500.00,BF - Travel & Incidentals,BF - TRV,Transport cement ,Wall
+3,09/01/20,Domingo,-12375.00,MZN,1,-12375.00,BF - Building Supplies,BF - BLDG,25 bags cement at 495,Wall
+4,09/02/20,Domingo Comercial,-2500.00,MZN,1,-2500.00,BF - Building Supplies,BF - BLDG,25kg wire @100/kg,Wall
+5,09/02/20,Construa,-76290.00,MZN,1,-76290.00,BF - Building Supplies,BF - BLDG,"100 bags cement @495, 300 6mm steel @74, wire",Wall
+6,09/03/20,Domingo,-5000.00,MZN,1,-5000.00,BF - Building Supplies,BF - BLDG,7x Sand ,Wall
+7,09/03/20,Domingo,-3100.00,MZN,1,-3100.00,BF - Travel & Incidentals,BF - TRV,"7x transport sand @300, 2x transport Petra @500",Wall
+8,09/03/20,Domingo Comercial,-7000.00,MZN,1,-7000.00,BF - Building Supplies,BF - BLDG,Two loads stone @3500,Wall
+9,09/03/20,Domingo Comercial,-39000.00,MZN,1,-39000.00,BF - Building Supplies,BF - BLDG,300 8mm steel @130/length,Wall
+10,09/05/20,Domingo,-4500.00,MZN,1,-4500.00,BF - Travel & Incidentals,BF - TRV,"4x transport 6mm steel and cement @1000, 1xtransport 8mm steel @500",Wall
+11,09/07/20,Domingo,-5000.00,MZN,1,-5000.00,BF - Building Supplies,BF - BLDG,Sand seven loads,Wall
+12,09/07/20,Domingo,-2100.00,MZN,1,-2100.00,BF - Travel & Incidentals,BF - TRV,7x transport sand @300,Wall
+13,09/09/20,Construa,-49500.00,MZN,1,-49500.00,BF - Building Supplies,BF - BLDG,100 bags cement @495,Wall
+14,09/09/20,Domingo Comercial,-5500.00,MZN,1,-5500.00,BF - Building Supplies,BF - BLDG,"50kg nails @100mzn/kg, 10 discs @50mzn",Wall
+15,09/10/20,Almeida Construção,-39990.00,MZN,1,-39990.00,BF - Building Supplies,BF - BLDG,"1,333 Blockos @30mzn each",Wall
+16,09/10/20,Domingo,-5000.00,MZN,1,-5000.00,BF - Building Supplies,BF - BLDG,Seven loads Sand ,Wall
+17,09/10/20,Domingo,-2100.00,MZN,1,-2100.00,BF - Travel & Incidentals,BF - TRV,7x transport sand @300,Wall
+18,09/10/20,Domingo,-4000.00,MZN,1,-4000.00,BF - Travel & Incidentals,BF - TRV,4x transport cement @1000,Wall
+19,09/11/20,Domingo,-2000.00,MZN,1,-2000.00,BF - Travel & Incidentals,BF - TRV,4x transport stone @500,Wall
+20,09/11/20,Domingo,-5000.00,MZN,1,-5000.00,BF - Building Supplies,BF - BLDG,Seven loads of sand  ,Wall
+21,09/11/20,Domingo,-2100.00,MZN,1,-2100.00,BF - Travel & Incidentals,BF - TRV,7x transport sand ,Wall
+22,09/14/20,Domingo Comercial,-14000.00,MZN,1,-14000.00,BF - Building Supplies,BF - BLDG,4x Petra @3500,Wall
+23,09/16/20,Construa,-49500.00,MZN,1,-49500.00,BF - Building Supplies,BF - BLDG,100xcement @495,Wall
+24,09/17/20,Domingo,-10000.00,MZN,1,-10000.00,BF - Building Supplies,BF - BLDG,2x sand @5000,Wall
+25,09/17/20,Domingo,-9700.00,MZN,1,-9700.00,BF - Travel & Incidentals,BF - TRV,"14x transport sand @300, 3x transport stone @500, 4x transport cement @1000",Wall
+26,09/18/20,Domingo Comercial,-10500.00,MZN,1,-10500.00,BF - Building Supplies,BF - BLDG,3x Petra @3500,Wall
+27,09/19/20,Augusto Rungo,-34000.00,MZN,1,-34000.00,BF - Contract Temporary Help,BF - CNT,Partial payment contract labor ,Wall
+28,09/19/20,Domingo,-5000.00,MZN,1,-5000.00,BF - Building Supplies,BF - BLDG,Sand (7 loads),Wall
+29,09/19/20,Domingo,-3100.00,MZN,1,-3100.00,BF - Travel & Incidentals,BF - TRV,"7x transport sand @300, 2x transport Petra @500",Wall
+30,09/19/20,Alberto Bennet,-2500.00,MZN,1,-2500.00,BF - Contract Temporary Help,BF - CNT,Partial payment contract labor ,Wall
+31,09/21/20,Domingo Comercial,-7000.00,MZN,1,-7000.00,BF - Building Supplies,BF - BLDG,2x stone @3500,Wall
+32,09/21/20,Domingo Comercial,-500.00,MZN,1,-500.00,BF - Grocery & Other Supplies,BF - SUPP,10x discs @50,Wall
+33,09/23/20,Domingo Comercial,-35500.00,MZN,1,-35500.00,BF - Building Supplies,BF - BLDG,"3x pedra @3500, 200x 8mm steel @125",Wall
+34,09/24/20,Domingo,-1200.00,MZN,1,-1200.00,BF - Building Supplies,BF - BLDG,6x sand @200,Wall
+35,09/24/20,Domingo,-4500.00,MZN,1,-4500.00,BF - Travel & Incidentals,BF - TRV,"6x sand transport @500, 3x stone transport @500",Wall
+36,09/24/20,Domingo,-4000.00,MZN,1,-4000.00,BF - Travel & Incidentals,BF - TRV,4x transport cement ,Wall
+37,09/24/20,Construa,-49500.00,MZN,1,-49500.00,BF - Building Supplies,BF - BLDG,100x cement @495,Wall
+38,09/28/20,Jan Van Niekerk,-6000.00,MZN,1,-6000.00,BF - Fuel,BF - FUEL,Fuel ,Wall
+39,09/28/20,Tx to BCI,-1453.00,MZN,1,-1453.00,BF - Bank Fees,BF - BNK,Bank fees ,Wall
+40,09/28/20,Tx from BCI,637148.00,MZN,1,637148.00,BF - Deposit,BF - DEP,Wire transfer withdrawal ,Wall
+41,09/29/20,Domingo,-5000.00,MZN,1,-5000.00,BF - Building Supplies,BF - BLDG,Sand ,Wall
+42,09/29/20,Domingo,-2100.00,MZN,1,-2100.00,BF - Travel & Incidentals,BF - TRV,7x transport sand @300,Wall
+43,09/29/20,Domingo,-21000.00,MZN,1,-21000.00,BF - Building Supplies,BF - BLDG,6x pedra @3500,Wall
+44,09/29/20,Domingo,-3500.00,MZN,1,-3500.00,BF - Travel & Incidentals,BF - TRV,7x transport pedra @500,Wall
+45,09/30/20,Close out September,-899949.00,MZN,1,-899949.00,BF - Deposit,BF - DEP,Close out September ,Wall
+
+ 

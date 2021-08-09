@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Comment,Currency,Price,Category Name,Category Code,Exchange Rate,Price (Exchanged)
+1,6/1/21,Beginning Balance,Beginning Balance,MZN,3113.55,BF - Deposit,BF - DEP,1,3113.55
+2,6/6/21,Tx from Kitty,Td from Kitty,MZN,1119,BF - Deposit,BF - DEP,1,1119
+3,6/13/21,Tx from Kitty,Tx from Kitty,MZN,382,BF - Deposit,BF - DEP,1,382
+4,6/18/21,Woolworths Maputo,1x bag of Espresso beans,MZN,-1705,BF - Grocery & Other Supplies,BF - SUPP,1,-1705
+5,6/20/21,Tx from Kitty,Tx from Kitty,MZN,3038,BF - Deposit,BF - DEP,1,3038
+6,6/25/21,Machavenga LDA,2x 5L Water,MZN,-130,BF - Grocery & Other Supplies,BF - SUPP,1,-130
+7,6/27/21,Tx from Kitty,Tx from Kitty,MZN,1158,BF - Deposit,BF - DEP,1,1158
+8,6/30/21,Tx from Kitty,Tx from Kitty,MZN,305.5,BF - Deposit,BF - DEP,1,305.5
+9,6/30/21,Closing Balance,Closing Balance,MZN,-7281.05,BF - Deposit,BF - DEP,1,-7281.05

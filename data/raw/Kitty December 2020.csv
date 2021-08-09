@@ -1,0 +1,26 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,12/01/20,Beginning Balance,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Beginning Balance ,Kitty
+2,12/07/20,Murray Kitty Fees,3500.00,MZN,1,3500.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+3,12/07/20,Bailey Kitty Fees,6000.00,MZN,1,6000.00,BF - Deposit,BF - DEP,Six days kitty fees,Kitty
+4,12/07/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+5,12/07/20,Agua Para Amigos,-200.00,MZN,1,-200.00,BF - Grocery & Other Supplies,BF - SUPP,20 liter water refills ,Kitty
+6,12/07/20,Machavenga,-259.00,MZN,1,-259.00,BF - Grocery & Other Supplies,BF - SUPP,Cheese,Kitty
+7,12/07/20,Machavenga,-339.50,MZN,1,-339.50,BF - Grocery & Other Supplies,BF - SUPP,"Bread, Lunchmeat",Kitty
+8,12/07/20,Comercio Azul,-12.00,MZN,1,-12.00,BF - Grocery & Other Supplies,BF - SUPP,Ginger,Kitty
+9,12/09/20,Comercio Azul,-2430.00,MZN,1,-2430.00,BF - Grocery & Other Supplies,BF - SUPP,"Chicken, Canned Goods, Rice, Fruit, Pasta, Water, PB",Kitty
+10,12/09/20,Agua Para Amigos,-150.00,MZN,1,-150.00,BF - Grocery & Other Supplies,BF - SUPP,Water refills ,Kitty
+11,12/09/20,Machavenga,-2042.00,MZN,1,-2042.00,BF - Grocery & Other Supplies,BF - SUPP,"Meat, Tortillas, Veggies, Fruit, Cheese",Kitty
+12,12/11/20,Padaria Barbalarza,-45.00,MZN,1,-45.00,BF - Grocery & Other Supplies,BF - SUPP,Pão ,Kitty
+13,12/11/20,Carne Osso,-749.00,MZN,1,-749.00,BF - Grocery & Other Supplies,BF - SUPP,Meat ,Kitty
+14,12/12/20,Agua Para Amigos,-200.00,MZN,1,-200.00,BF - Grocery & Other Supplies,BF - SUPP,Water refills ,Kitty
+15,12/14/20,Tx to Rollover,-73.50,MZN,1,-73.50,BF - Deposit,BF - DEP,Remaining balance from previous week,Kitty
+16,12/14/20,Murray Kitty Fees,4600.00,MZN,1,4600.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+17,12/14/20,Agua Para Amigos,-100.00,MZN,1,-100.00,BF - Grocery & Other Supplies,BF - SUPP,Water refills ,Kitty
+18,12/14/20,EDM,-2500.00,MZN,1,-2500.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+19,12/14/20,Bailey Kitty Fees,4395.00,MZN,1,4395.00,BF - Deposit,BF - DEP,Kitty fees ,Kitty
+20,12/14/20,Machavenga,-2455.00,MZN,1,-2455.00,BF - Grocery & Other Supplies,BF - SUPP,"Fruit, Veggies, Eggs, Bacon, Oil",Kitty
+21,12/14/20,Carne Osso,-2428.00,MZN,1,-2428.00,BF - Grocery & Other Supplies,BF - SUPP,Steaks,Kitty
+22,12/14/20,Comercio Azul,-1512.00,MZN,1,-1512.00,BF - Grocery & Other Supplies,BF - SUPP,"Milk, Cream, Veggies, Rice, Pasta",Kitty
+23,12/31/20,Close out December,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Close out December ,Kitty
+
+ 

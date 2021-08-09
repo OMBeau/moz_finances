@@ -1,0 +1,13 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,07/01/20,Beginning Balance,689384.00,MZN,1,689384.00,BF - Deposit,BF - DEP,Beginning Balance ,Wall
+2,07/03/20,"ArgTrassos, LDA",-12000.00,MZN,1,-12000.00,BF - Professional Fees,BF - PROF,Architect ,Wall
+3,07/09/20,Municipal,-120.00,MZN,1,-120.00,BF - Taxes,BF - TAX,Tax for License ,Wall
+4,07/21/20,Municipal,-5225.00,MZN,1,-5225.00,BF - Licenses & Permits (Business),BF - PRMT,License to build wall ,Wall
+5,07/28/20,Jan Van Niekerk,-6000.00,MZN,1,-6000.00,BF - Fuel,BF - FUEL,Fuel ,Wall
+6,07/28/20,Gindolo,-300.00,MZN,1,-300.00,BF - Grocery & Other Supplies,BF - SUPP,Working gloves ,Wall
+7,07/28/20,Construa,-11360.00,MZN,1,-11360.00,BF - Grocery & Other Supplies,BF - SUPP,"Wheelbarrows, Axe, Gloves, Goggles and Twine",Wall
+8,07/29/20,Almeida Construção,-50010.00,MZN,1,-50010.00,BF - Building Supplies,BF - BLDG,Deposit for blockos for wall ,Wall
+9,07/29/20,Miguel’s Shop Barra,-450.00,MZN,1,-450.00,BF - Grocery & Other Supplies,BF - SUPP,Rope ,Wall
+10,07/31/20,Close out July,-603919.00,MZN,1,-603919.00,BF - Deposit,BF - DEP,Close out July,Wall
+
+ 

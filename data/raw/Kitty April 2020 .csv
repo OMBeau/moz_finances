@@ -1,0 +1,65 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,15212.00,MZN,1,15212.00,BF - Deposit,BF - DEP,Beginning Balance ,Kitty
+2,04/02/20,Tx from Expeditions,10080.00,MZN,1,10080.00,BF - Grocery & Other Supplies,BF - SUPP,five days kitty,AMT
+3,04/02/20,Krpicak Kitty Fees,57.00,MZN,1,57.00,BF - Accounting Fees,BF - ACCT,Partial kitty fees ,Kitty
+4,04/02/20,Machavenga,-10274.00,MZN,1,-10274.00,BF - Grocery & Other Supplies,BF - SUPP,"Fruits, meat, flour, veggies, yogurt, cheese, granola, mayo, eggs",Kitty
+5,04/05/20,Machavenga,-10500.00,MZN,1,-10500.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, fruit, meat, butter, flour, feta",Kitty
+6,04/05/20,Tx to Rollover,-4575.00,MZN,1,-4575.00,BF - Deposit,BF - DEP,Leftover balance ,Kitty
+7,04/06/20,Murray Kitty Fees,3500.00,MZN,1,3500.00,BF - Deposit,BF - DEP,One week kitty fees,Kitty
+8,04/06/20,Tx from Expeditions,14112.00,MZN,1,14112.00,BF - Grocery & Other Supplies,BF - SUPP,One week AMT Kitty ,AMT
+9,04/06/20,Stirling Kitty Fees,9184.00,MZN,1,9184.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+10,04/06/20,Krpicak Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+11,04/06/20,EDM,-5000.00,MZN,1,-5000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+12,04/06/20,Machavenga,-1410.00,MZN,1,-1410.00,BF - Grocery & Other Supplies,BF - SUPP,"Gammon, Bread, Coriander, Cream Cheese, tortillas ",Kitty
+13,04/06/20,Comercio Azul,-5701.00,MZN,1,-5701.00,BF - Grocery & Other Supplies,BF - SUPP,"Cooking oil, Eggs, Pasta, Cheese, Black Beans, Milk, Water",Kitty
+14,04/07/20,Agua Para Amigos,-1050.00,MZN,1,-1050.00,BF - Grocery & Other Supplies,BF - SUPP,Water refills,Kitty
+15,04/07/20,Machavenga,-288.00,MZN,1,-288.00,BF - Grocery & Other Supplies,BF - SUPP,Paper towels ,Kitty
+16,04/09/20,Big Tree Stand,-120.00,MZN,1,-120.00,BF - Grocery & Other Supplies,BF - SUPP,Tomatoes ,Kitty
+17,04/11/20,Carne Osso,-2925.00,MZN,1,-2925.00,BF - Grocery & Other Supplies,BF - SUPP,Boereworse ,Kitty
+18,04/11/20,Machavenga,-9063.00,MZN,1,-9063.00,BF - Grocery & Other Supplies,BF - SUPP,"Fruits, veggies, cheese, chips, ham",Kitty
+19,04/11/20,Comercio Azul,-4593.00,MZN,1,-4593.00,BF - Grocery & Other Supplies,BF - SUPP,"Soda, Canned Beans and Tomatoes, Lettuce, Eggs, Snacks, Cream, sugar ",Kitty
+20,04/13/20,Tx to Rollover,-3646.00,MZN,1,-3646.00,BF - Deposit,BF - DEP,Remainder to rollover ,Kitty
+21,04/13/20,Murray Kitty Fees,3500.00,MZN,1,3500.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+22,04/13/20,Tx from Expeditions,14112.00,MZN,1,14112.00,BF - Deposit,BF - DEP,AMT kitty one week ,AMT
+23,04/13/20,Stirling Kitty Fees,9184.00,MZN,1,9184.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+24,04/13/20,EDM,-5000.00,MZN,1,-5000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+25,04/13/20,Agua Para Amigos,-1600.00,MZN,1,-1600.00,BF - Grocery & Other Supplies,BF - SUPP,Water Refills and Piri Piri,Kitty
+26,04/13/20,Krpicak Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+27,04/13/20,Machavenga,-9967.00,MZN,1,-9967.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, Ice, Fruit, Bread, Butter, Cheese",Kitty
+28,04/15/20,Central Mercado,-690.00,MZN,1,-690.00,BF - Grocery & Other Supplies,BF - SUPP,"Chicken, Cassava Leaves, Ground Peanut",Kitty
+29,04/15/20,Comercio Azul,-5346.00,MZN,1,-5346.00,BF - Grocery & Other Supplies,BF - SUPP,"Cereal, Yogurt, Eggs, Canned Veggies, Water, Oil",Kitty
+30,04/15/20,Machavenga,-1056.00,MZN,1,-1056.00,BF - Grocery & Other Supplies,BF - SUPP,Hand soap ,Kitty
+31,04/15/20,Machavenga,-1520.00,MZN,1,-1520.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, Oats, Pasta ",Kitty
+32,04/15/20,Sammy,-1150.00,MZN,1,-1150.00,BF - Grocery & Other Supplies,BF - SUPP,Fish,Kitty
+33,04/19/20,Machavenga,-6746.00,MZN,1,-6746.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, Chips, Meat, Condiments, Spices, Fruit",Kitty
+34,04/19/20,Tx to Rollover,-721.00,MZN,1,-721.00,BF - Deposit,BF - DEP,Remainder to rollover ,Kitty
+35,04/20/20,Murray Kitty Fees,3500.00,MZN,1,3500.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+36,04/20/20,Stirling Kitty Fees,9184.00,MZN,1,9184.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+37,04/20/20,Tx from Expeditions,14112.00,MZN,1,14112.00,BF - Deposit,BF - DEP,One week AMT kitty fees ,Kitty
+38,04/20/20,EDM,-5000.00,MZN,1,-5000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+39,04/20/20,Agua Para Amigos,-1350.00,MZN,1,-1350.00,BF - Grocery & Other Supplies,BF - SUPP,Water Refills and piri Piri ,Kitty
+40,04/20/20,Comercio Azul,-350.00,MZN,1,-350.00,BF - Grocery & Other Supplies,BF - SUPP,Crate of Coke’s ,Kitty
+41,04/20/20,Comercio Azul,-9794.00,MZN,1,-9794.00,BF - Grocery & Other Supplies,BF - SUPP,"Milk, Butter, Chicken, Eggs, Pasta, olive oil, cream, rice, feta, veggies, cleaning supplies ",Kitty
+42,04/20/20,Machavenga,-7397.00,MZN,1,-7397.00,BF - Grocery & Other Supplies,BF - SUPP,"Meat, Bread, Fruit, Veggies, Yogurt, Spices, Foil, Ziploc",Kitty
+43,04/21/20,Krpicak Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+44,04/21/20,Petromoc Padaria,-138.00,MZN,1,-138.00,BF - Grocery & Other Supplies,BF - SUPP,Pão ,Kitty
+45,04/21/20,Mafuera Market,-80.00,MZN,1,-80.00,BF - Grocery & Other Supplies,BF - SUPP,Bajias ,Kitty
+46,04/21/20,Machavenga,-811.00,MZN,1,-811.00,BF - Grocery & Other Supplies,BF - SUPP,"Squash, Grapes, Watermelon ",Kitty
+47,04/22/20,Machavenga,-852.00,MZN,1,-852.00,BF - Grocery & Other Supplies,BF - SUPP,Water and Lentil Beans,Kitty
+48,04/25/20,Carne Osso,-2925.00,MZN,1,-2925.00,BF - Grocery & Other Supplies,BF - SUPP,Lunch ,Kitty
+49,04/25/20,Comercio Azul,-190.00,MZN,1,-190.00,BF - Grocery & Other Supplies,BF - SUPP,Sponges ,Kitty
+50,04/25/20,Machavenga,-2530.50,MZN,1,-2530.50,BF - Grocery & Other Supplies,BF - SUPP,"Tomatoes, Cream Cheese, Coconut oil, Spices, Cheese",Kitty
+51,04/25/20,Comercio Azul,-2179.00,MZN,1,-2179.00,BF - Grocery & Other Supplies,BF - SUPP,"Cheese, Pasta, Condensed milk, Lettuce, Orange juice, Cucumbers, Paper towels ",Kitty
+52,04/27/20,Tx to Rollover,-199.50,MZN,1,-199.50,BF - Deposit,BF - DEP,Leftover balance ,Kitty
+53,04/27/20,Krpicak Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+54,04/27/20,Murray Kitty Fees,3500.00,MZN,1,3500.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+55,04/27/20,Tx from Expeditions,14112.00,MZN,1,14112.00,BF - Deposit,BF - DEP,4 Days AMT kitty fees ,AMT
+56,04/27/20,Agua Para Amigos,-1650.00,MZN,1,-1650.00,BF - Grocery & Other Supplies,BF - SUPP,Water refills and Piri Piri ,Kitty
+57,04/27/20,Comercio Azul,-7007.00,MZN,1,-7007.00,BF - Grocery & Other Supplies,BF - SUPP,"Canned Goods, Cereal, Eggs, Chicken, Cream, Granola",Kitty
+58,04/27/20,EDM,-5000.00,MZN,1,-5000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+59,04/27/20,Stirling Kitty Fees,9184.00,MZN,1,9184.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+60,04/27/20,Machavenga,-8361.00,MZN,1,-8361.00,BF - Grocery & Other Supplies,BF - SUPP,"Meat, Fruit, Yogurt, Cheese, Butter, Pasta",Kitty
+61,04/27/20,Comercio Azul,-1916.00,MZN,1,-1916.00,BF - Grocery & Other Supplies,BF - SUPP,Meat,Kitty
+62,04/30/20,Close out month,-9862.00,MZN,1,-9862.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+
+ 

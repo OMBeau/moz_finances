@@ -1,0 +1,29 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment
+1,04/01/21,Beginning Balance,139.50,MZN,1,139.50,BF - Deposit,BF - DEP,Beginning Balance
+2,04/01/21,Manager Salary,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager Salary
+3,04/01/21,Associação África Missions,91069.00,MZN,1,91069.00,BF - Deposit,BF - DEP,Rent for April
+4,04/01/21,Tx to Base Savings Budget,-4240.00,MZN,1,-4240.00,BF - Deposit,BF - DEP,Land/Activity Tax
+5,04/01/21,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,March Accounting
+6,04/01/21,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS
+7,04/01/21,EDM,-4000.00,MZN,1,-4000.00,BF - Utilities,BF - UTL,Electricity 
+8,04/06/21,Naresh Ramniclal,-2250.00,MZN,1,-2250.00,BF - Utilities,BF - UTL,Propane exchange x 3
+9,04/09/21,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity
+10,04/10/21,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay and 13th month
+11,04/11/21,Cater King,-7470.50,MZN,1,-7470.50,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Vacuum control valve and Blu52 Pool supplies
+12,04/12/21,Gindolo,-655.00,MZN,1,-655.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Outdoor Outlet cover and plug for geyser
+13,04/13/21,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity 
+14,04/13/21,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,1x Trash Removal 
+15,04/15/21,Machavenga,-519.00,MZN,1,-519.00,BF - Grocery & Other Supplies,BF - SUPP,Insect repellant/poison
+16,04/15/21,Gindolo,-390.00,MZN,1,-390.00,BF - Grocery & Other Supplies,BF - SUPP,Adaptor and head for hoe
+17,04/26/21,EDM,-6000.00,MZN,1,-6000.00,BF - Utilities,BF - UTL,Electricity
+18,04/26/21,EDM,-1000.00,MZN,1,-1000.00,BF - Utilities,BF - UTL,Electricity
+19,04/29/21,ISPC,-5418.00,MZN,1,-5418.00,BF - Taxes,BF - TAX,ISPC
+20,04/29/21,Gindolo,-2680.00,MZN,1,-2680.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Surge protector for MC fridge, outlet socket for geyser"
+21,04/30/21,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,April Salary
+22,04/30/21,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,April Salary
+23,04/30/21,José Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,April Salary
+24,04/30/21,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,April Salary
+25,04/30/21,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Manager April Salary
+26,04/30/21,Closing Balance,-2484.00,MZN,1,-2484.00,BF - Deposit,BF - DEP,Closing Balance
+
+ 

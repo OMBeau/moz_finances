@@ -1,0 +1,15 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,05/01/20,Beginning Balance,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Beginning Balance ,Associacao Petty Cash
+2,05/01/20,Tx from Base Bag,3000.00,MZN,1,3000.00,BF - Accounting Fees,BF - ACCT,Associação Accounting fees ,Base
+3,05/04/20,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,Accounting fees ,Associacao Petty Cash
+4,05/05/20,Murray Base Fees,16792.00,MZN,1,16792.00,BF - Deposit,BF - DEP,Base fees May,Associacao Petty Cash
+5,05/05/20,Krpicak Base Fees,33584.00,MZN,1,33584.00,BF - Deposit,BF - DEP,May Base fees,Associacao Petty Cash
+6,05/07/20,Bailey Base Fees,33584.00,MZN,1,33584.00,BF - Deposit,BF - DEP,May base fees ,Associacao Petty Cash
+7,05/07/20,Overland Enterprises,-73876.00,MZN,1,-73876.00,BF - Deposit,BF - DEP,Rent payment ,Base
+8,05/12/20,Tx to Overland Enterprise base,-750.00,MZN,1,-750.00,BF - Office Supplies,BF - OFSUPP,Repayment of loan for receipt book ,Associacao Petty Cash
+9,05/12/20,Tx to Overland Enterprise base,-25.00,MZN,1,-25.00,BF - Professional Fees,BF - PROF,Repayment of loan,Associacao Petty Cash
+10,05/12/20,Tx to Overland Enterprise base,-5000.00,MZN,1,-5000.00,BF - Bank Fees,BF - BNK,Repayment of loan,Associacao Petty Cash
+11,05/12/20,Tx to Overland Enterprise base,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,Repayment of loan,Associacao Petty Cash
+12,05/31/20,Close out May,-1309.00,MZN,1,-1309.00,BF - Deposit,BF - DEP,Close out May,Associacao Petty Cash
+
+ 

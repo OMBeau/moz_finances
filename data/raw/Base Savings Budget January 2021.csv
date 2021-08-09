@@ -1,0 +1,7 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,01/01/21,Beginning Balance,134170.00,MZN,1,134170.00,BF - Deposit,BF - DEP,Beginning Balance ,Base Savings Budget
+2,01/02/21,Tx from Base Bag,4240.00,MZN,1,4240.00,BF - Deposit,BF - DEP,Taxes,Base Savings Budget
+3,01/02/21,Tx from Base Bag,7150.00,MZN,1,7150.00,BF - Deposit,BF - DEP,Sev Pay & 13th month ,Base Savings Budget
+4,01/31/21,Close out January,-145560.00,MZN,1,-145560.00,BF - Deposit,BF - DEP,Close out January ,Base Savings Budget
+
+ 

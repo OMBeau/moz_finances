@@ -1,0 +1,11 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,07/01/20,Beginning Balance,4751.00,MZN,1,4751.00,BF - Deposit,BF - DEP,Beginning Balance ,Associacao Petty Cash
+2,07/02/20,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,June accounting fees ,Associacao Petty Cash
+3,07/02/20,Murray Base Fees,17881.00,MZN,1,17881.00,BF - Deposit,BF - DEP,July base fees ,Associacao Petty Cash
+4,07/02/20,Bailey Base Fees,35762.00,MZN,1,35762.00,BF - Deposit,BF - DEP,July base fees ,Associacao Petty Cash
+5,07/03/20,Krpicak Base Fees,35762.00,MZN,1,35762.00,BF - Deposit,BF - DEP,July base fees,Associacao Petty Cash
+6,07/03/20,Overland Enterprises,-76384.00,MZN,1,-76384.00,"BF - Rent, Other Occupancy",BF - RNT,July rent ,Associacao Petty Cash
+7,07/06/20,Portador Diario,-400.00,MZN,1,-400.00,"BF - Postage, Shipping, Delivery",BF - POST,Sending of documents to lawyer,Associacao Petty Cash
+8,07/31/20,Close out July,-14372.00,MZN,1,-14372.00,BF - Deposit,BF - DEP, Close out July,Associacao Petty Cash
+
+ 

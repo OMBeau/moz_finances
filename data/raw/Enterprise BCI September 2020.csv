@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,09/01/20,Beginning Balance,4056.58,MZN,1,4056.58,BF - Deposit,BF - DEP,Beginning Balance ,Enterprise BCI
+2,09/15/20,Overland Missions,637148.25,MZN,1,637148.25,BF - Deposit,BF - DEP,Wire transfer for wall ,Wall
+3,09/15/20,BCI,-1423.00,MZN,1,-1423.00,BF - Bank Fees,BF - BNK,Transfer commission ,Wall
+4,09/15/20,BCI,-28.46,MZN,1,-28.46,BF - Bank Fees,BF - BNK,Stamp duty ,Wall
+5,09/28/20,Tx to Petty Cash Projects,-637148.00,MZN,1,-637148.00,BF - Deposit,BF - DEP,Wire transfer withdrawal ,Wall
+6,09/28/20,Tx from Wall,1453.00,MZN,1,1453.00,BF - Bank Fees,BF - BNK,Deposit to cover fees ,Wall
+7,09/30/20,Close out September,-4058.37,MZN,1,-4058.37,BF - Deposit,BF - DEP,Close out September ,Enterprise BCI
+
+ 

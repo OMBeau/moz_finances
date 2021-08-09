@@ -1,0 +1,6 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,03/01/21,Beginning Balance,699.62,MZN,1,699.62,BF - Deposit,BF - DEP,Beginning Balance ,Associcao BCI
+2,03/01/21,Tx from Associação PC Base,1056.00,MZN,1,1056.00,BF - Deposit,BF - DEP,Transfer from AAM Base to cover February card fees ,Associcao BCI
+3,03/31/21,Close out March,-1755.62,MZN,1,-1755.62,BF - Deposit,BF - DEP,Close out March,Associcao BCI
+
+ 

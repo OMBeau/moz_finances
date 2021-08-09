@@ -1,0 +1,7 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,05/01/20,Beginning Balance,188550.00,MZN,1,188550.00,BF - Deposit,BF - DEP,Beginning balance ,Base Savings
+2,05/01/20,Tx from Base Bag,2000.00,MZN,1,2000.00,BF - Taxes,BF - TAX,Taxes set aside ,Taxes
+3,05/01/20,Tx from Base Bag,7150.00,MZN,1,7150.00,BF - Employee Payroll,BF - EMPRL,Sev Pay & 13th month ,Base Savings
+4,05/31/20,Close out May,-197700.00,MZN,1,-197700.00,BF - Deposit,BF - DEP,Close out May ,Base Savings
+
+ 

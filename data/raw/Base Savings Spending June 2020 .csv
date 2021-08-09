@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,06/01/20,Beginning Balance,114465.82,MZN,1,114465.82,BF - Deposit,BF - DEP,Beginning Balance ,Base Savings
+2,06/30/20,Close out June,-114465.82,MZN,1,-114465.82,BF - Deposit,BF - DEP,Close out June,Base Savings
+
+ 

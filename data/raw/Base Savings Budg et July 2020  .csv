@@ -1,0 +1,8 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,07/01/20,Beginning Balance,203450.00,MZN,1,203450.00,BF - Deposit,BF - DEP,Beginning Balance ,Base Savings
+2,07/01/20,Tx from Base Bag,7150.00,MZN,1,7150.00,BF - Deposit,BF - DEP,Sev Pay July ,Base Savings
+3,07/01/20,Tx from Base Savings,2000.00,MZN,1,2000.00,BF - Taxes,BF - TAX,Taxes ,Base Savings
+4,07/06/20,Tx to Base Bag,-26700.00,MZN,1,-26700.00,BF - Deposit,BF - DEP,Transfer Jorge payment to base,Base Savings
+5,07/31/20,Close out July,-185900.00,MZN,1,-185900.00,BF - Deposit,BF - DEP,Close out July,Base Savings
+
+ 

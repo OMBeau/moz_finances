@@ -1,0 +1,48 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,07/01/20,Beginning Balance,182182.50,MZN,1,182182.50,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,07/01/20,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+3,07/01/20,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay July,Base
+4,07/01/20,Tx to Base Savings Budget,-2000.00,MZN,1,-2000.00,BF - Deposit,BF - DEP,Taxes ,Base
+5,07/02/20,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS ,Base
+6,07/02/20,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,June accounting fees ,Base
+7,07/03/20,Paulo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+8,07/03/20,Associação África Missions,76384.00,MZN,1,76384.00,"BF - Rent, Other Occupancy",BF - RNT,July rent ,Base
+9,07/03/20,Movitel,-3700.00,MZN,1,-3700.00,BF - Telecommunications,BF - TELE,Internet ,Base
+10,07/04/20,Cater King,-1902.00,MZN,1,-1902.00,BF - Office Supplies,BF - OFSUPP,printer ink ,Base
+11,07/06/20,Tx from Base Savings Budget,26700.00,MZN,1,26700.00,BF - Deposit,BF - DEP,Jorge payment transfer ,Base
+12,07/07/20,Machavenga,-354.00,MZN,1,-354.00,BF - Office Supplies,BF - OFSUPP,Printer paper ,Base
+13,07/08/20,Domingo,-1000.00,MZN,1,-1000.00,BF - Travel & Incidentals,BF - TRV,Transport for wood for railings ,Base
+14,07/08/20,Construa,-83952.00,MZN,1,-83952.00,BF - Building Supplies,BF - BLDG,Wood and hardware for new chalet railings ,Base
+15,07/09/20,Gindolo,-9060.00,MZN,1,-9060.00,BF - Building Supplies,BF - BLDG,Varnish and turpentine for railings ,Base
+16,07/10/20,Beau Krpicak,2000.00,MZN,1,2000.00,BF - Grocery & Other Supplies,BF - SUPP,Purchase of chafuta wood from base,Base
+17,07/10/20,Mozambique Houses,-25000.00,MZN,1,-25000.00,BF - Professional Fees,BF - PROF,Jorge consultation fees,Base
+18,07/14/20,Stirling Base Fees,15008.00,MZN,1,15008.00,BF - Deposit,BF - DEP,Two weeks base fees ,Base
+19,07/14/20,Paulo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+20,07/15/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+21,07/16/20,Gindolo,-7080.00,MZN,1,-7080.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Varnish and bug poison for wood ,Base
+22,07/17/20,AMG,-1566.00,MZN,1,-1566.00,BF - Utilities,BF - UTL,Diesel for generator ,Base
+23,07/17/20,Beau Krpicak,515.00,MZN,1,515.00,BF - Deposit,BF - DEP,"Cement, Blockos and Rebar",Base
+24,07/19/20,Domingo Comercial,-1320.00,MZN,1,-1320.00,BF - Building Supplies,BF - BLDG,Threaded rods ,Base
+25,07/21/20,Machavenga,-287.00,MZN,1,-287.00,BF - Grocery & Other Supplies,BF - SUPP,Glue ,Base
+26,07/23/20,Pep,-299.00,MZN,1,-299.00,BF - Grocery & Other Supplies,BF - SUPP,Umbrella ,Base
+27,07/23/20,Moz Prints,-1800.00,MZN,1,-1800.00,BF - Printing & Copying,BF - PRNT,Canvas print for photo ,Base
+28,07/23/20,Domingo Comercial,-2020.00,MZN,1,-2020.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Nuts, Threaded Rods, Sanding Discs, wood glue ",Base
+29,07/25/20,Game,-2760.00,MZN,1,-2760.00,BF - Grocery & Other Supplies,BF - SUPP,two small rugs ,Base
+30,07/27/20,Gindolo,-2260.00,MZN,1,-2260.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Sanding discs, screws and drill bits ",Base
+31,07/27/20,AMS Office,-1500.00,MZN,1,-1500.00,BF - Office Supplies,BF - OFSUPP,Cash envelopes (250),Base
+32,07/27/20,Paulo,-200.00,MZN,1,-200.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Screws ,Base
+33,07/28/20,ISPC,-11735.00,MZN,1,-11735.00,BF - Taxes,BF - TAX,ISPC ,Base
+34,07/29/20,Gindolo,-300.00,MZN,1,-300.00,BF - Grocery & Other Supplies,BF - SUPP,Two utility knives  ,Base
+35,07/29/20,Paulo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+36,07/30/20,Gindolo,-1327.50,MZN,1,-1327.50,BF - Building Supplies,BF - BLDG,Screws ,Base
+37,07/30/20,Domingo Comercial,-1000.00,MZN,1,-1000.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Screws ,Base
+38,07/30/20,Cater King,-6189.00,MZN,1,-6189.00,BF - Grocery & Other Supplies,BF - SUPP,"Spatulas, Measuring cups, silicone ",Base
+39,07/31/20,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,Salary for July ,Base
+40,07/31/20,José Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,July salary ,Base
+41,07/31/20,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,July salary,Base
+42,07/31/20,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,Salary July ,Base
+43,07/31/20,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Salary ,Base
+44,07/31/20,Babalaza Shop,-300.00,MZN,1,-300.00,BF - Grocery & Other Supplies,BF - SUPP,Masking tape (6),Base
+45,07/31/20,Close out July,-80376.00,MZN,1,-80376.00,BF - Deposit,BF - DEP,Close out July,Base
+
+ 

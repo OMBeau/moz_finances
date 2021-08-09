@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,02/01/21,Beginning Balance,5187.55,MZN,1,5187.55,BF - Deposit,BF - DEP,Beginning Balance ,Kitty Rollover
+2,02/28/21,Close out February,-5187.55,MZN,1,-5187.55,BF - Deposit,BF - DEP,Close out February ,Kitty Rollover
+
+ 

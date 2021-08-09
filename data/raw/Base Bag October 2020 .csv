@@ -1,0 +1,41 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,10/01/20,Beginning Balance,9253.00,MZN,1,9253.00,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,10/01/20,Tx from Base Savings Spending,10000.00,MZN,1,10000.00,BF - Deposit,BF - DEP,Transfer ,Base
+3,10/01/20,Moz Prints,-50.00,MZN,1,-50.00,BF - Office Supplies,BF - OFSUPP,Folder ,Base
+4,10/01/20,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+5,10/02/20,Machavenga,-813.00,MZN,1,-813.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Four light bulbs downstairs MC bathrooms,Base
+6,10/02/20,Gindolo,-20.00,MZN,1,-20.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Nails for MC screens ,Base
+7,10/02/20,Gindolo,-350.00,MZN,1,-350.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Fuse for phases,Base
+8,10/03/20,Associação África Missions,78763.00,MZN,1,78763.00,"BF - Rent, Other Occupancy",BF - RNT,October Rent,Base
+9,10/03/20,Tx to Base Savings Budget,-4240.00,MZN,1,-4240.00,BF - Deposit,BF - DEP,Land/Activity Tax,Base
+10,10/03/20,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Accounting Fees,BF - ACCT,Sev Pay & 13th month ,Base
+11,10/03/20,Pedro Jose,-15000.00,MZN,1,-15000.00,BF - Contract Temporary Help,BF - CNT,Phases project labor ,Base
+12,10/05/20,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+13,10/06/20,Gindolo,-325.00,MZN,1,-325.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Union PVC ,Base
+14,10/06/20,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,September accounting fees ,Base
+15,10/06/20,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,September INSS ,Base
+16,10/06/20,Gindolo,-1020.00,MZN,1,-1020.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,PVC join and terminator ,Base
+17,10/07/20,Antonio Frio,-1500.00,MZN,1,-1500.00,BF - Contract Temporary Help,BF - CNT,Fix leak on MC fridge ,Base
+18,10/09/20,Conservatória,-1200.00,MZN,1,-1200.00,BF - Professional Fees,BF - PROF,Procuração Beau to Joy,Base
+19,10/09/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+20,10/09/20,Construa,-990.00,MZN,1,-990.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Two bags of cement,Base
+21,10/15/20,Comercio Azul,-98.00,MZN,1,-98.00,BF - Office Supplies,BF - OFSUPP,Filing sleeves ,Base
+22,10/15/20,EDM,-5000.00,MZN,1,-5000.00,BF - Utilities,BF - UTL,Electricity ,Base
+23,10/17/20,Gindolo,-650.00,MZN,1,-650.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Floater switch for water tower ,Base
+24,10/17/20,Pedro Jose,-1500.00,MZN,1,-1500.00,BF - Contract Temporary Help,BF - CNT,Fix floater switch ,Base
+25,10/21/20,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+26,10/22/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+27,10/22/20,Gindolo,-130.00,MZN,1,-130.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Glass and clip,Base
+28,10/23/20,Domingo,-200.00,MZN,1,-200.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Mirror Glass for Villa 4,Base
+29,10/27/20,ISPC,-7384.00,MZN,1,-7384.00,BF - Taxes,BF - TAX,ISPC ,Base
+30,10/27/20,Gindolo,-1100.00,MZN,1,-1100.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Sanding discs ,Base
+31,10/28/20,Manuel Almeida,-300.00,MZN,1,-300.00,BF - Contract Temporary Help,BF - CNT,Removal of vines and grass ,Base
+32,10/31/20,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Manager salary October ,Base
+33,10/31/20,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,October salary ,Base
+34,10/31/20,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,October salary ,Base
+35,10/31/20,José Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,October salary ,Base
+36,10/31/20,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,October salary ,Base
+37,10/31/20,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+38,10/31/20,Close out October,-844.00,MZN,1,-844.00,BF - Deposit,BF - DEP,Close out October,Base
+
+ 

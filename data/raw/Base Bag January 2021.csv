@@ -1,0 +1,43 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,01/01/21,Beginning Balance,163.50,MZN,1,163.50,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,01/01/21,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+3,01/02/21,Associação África Missions,81578.00,MZN,1,81578.00,BF - Deposit,BF - DEP,January Rent  ,Base
+4,01/02/21,Tx to Base Savings Budget,-4240.00,MZN,1,-4240.00,BF - Deposit,BF - DEP,Taxes,Base
+5,01/02/21,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay & 13th month,Base
+6,01/04/21,EDM,-2500.00,MZN,1,-2500.00,BF - Utilities,BF - UTL,Electricity ,Base
+7,01/04/21,"Supermercado Cumudi, Lda.",-1600.00,MZN,1,-1600.00,BF - Utilities,BF - UTL,(2) propane tank exchanges ,Base
+8,01/04/21,Gindolo,-2655.00,MZN,1,-2655.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,New chain and clips Smethurst veranda and 2 large diamond discs ,Base
+9,01/04/21,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS,Base
+10,01/04/21,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,December accounting fees ,Base
+11,01/05/21,Domingo Comercial,-120.00,MZN,1,-120.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,(2) 50mm brushes ,Base
+12,01/08/21,Gindolo,-4875.00,MZN,1,-4875.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Varnish, Turpentine and connector join ",Base
+13,01/11/21,Gindolo,-345.00,MZN,1,-345.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,22mm copper union ,Base
+14,01/11/21,EDM,-2500.00,MZN,1,-2500.00,BF - Utilities,BF - UTL,Electricity ,Base
+15,01/11/21,Auto Peças,-600.00,MZN,1,-600.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Bearings for MC fridge ,Base
+16,01/13/21,Brandon Murray,10000.00,MZN,1,10000.00,BF - Deposit,BF - DEP,Donation ,Base
+17,01/13/21,Ramo Comercial,-900.00,MZN,1,-900.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Sanding discs (6each) 36/100 grit,Base
+18,01/16/21,Comercio Azul,-458.00,MZN,1,-458.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,2 bags pool shock ,Base
+19,01/16/21,Gindolo,-300.00,MZN,1,-300.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,(6) 100grit sanding discs ,Base
+20,01/18/21,AMG,-1528.00,MZN,1,-1528.00,BF - Utilities,BF - UTL,Diesel for generator ,Base
+21,01/19/21,EDM,-2500.00,MZN,1,-2500.00,BF - Utilities,BF - UTL,Electricity ,Base
+22,01/20/21,Machavenga,-717.00,MZN,1,-717.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Pool pump lid,Base
+23,01/20/21,Mini Banca Guiamba,-100.00,MZN,1,-100.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,20 screws ,Base
+24,01/22/21,ISPC,-7183.00,MZN,1,-7183.00,BF - Taxes,BF - TAX,ISPC,Base
+25,01/22/21,Domingo Comercial,-350.00,MZN,1,-350.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Wood glue and (4) 36 grit sanding discs ,Base
+26,01/22/21,Gindolo,-190.00,MZN,1,-190.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"1/2kg 1” nails, screws and 100grit sanding disc (1)",Base
+27,01/22/21,Tx from Base Savings Spending,22000.00,MZN,1,22000.00,BF - Deposit,BF - DEP,Transfer,Base
+28,01/24/21,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+29,01/25/21,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Manager salary ,Base
+30,01/25/21,José Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,January salary ,Base
+31,01/25/21,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,January salary ,Base
+32,01/25/21,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,January salary ,Base
+33,01/25/21,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,January salary ,Base
+34,01/25/21,Construa,-764.00,MZN,1,-764.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,10mm chisel ,Base
+35,01/25/21,Gindolo,-780.00,MZN,1,-780.00,BF - Grocery & Other Supplies,BF - SUPP,Wood insect poison ,Base
+36,01/25/21,Great Wall,-70.00,MZN,1,-70.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Glass for window replacement ,Base
+37,01/25/21,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,January accounting fees ,Base
+38,01/25/21,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS,Base
+39,01/25/21,Tx from Base Savings Spending,10000.00,MZN,1,10000.00,BF - Deposit,BF - DEP,Transfer ,Base
+40,01/31/21,Close out January,-25892.50,MZN,1,-25892.50,BF - Deposit,BF - DEP, Close out January ,Base
+
+ 

@@ -1,0 +1,11 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,01/01/21,Beginning Balance,66528.00,MZN,1,66528.00,BF - Deposit,BF - DEP,Beginning Balance ,Associacao Petty Cash Base
+2,01/02/21,Murray Base Fees,19097.00,MZN,1,19097.00,BF - Deposit,BF - DEP,January Base Fees,Associacao Petty Cash Base
+3,01/02/21,Overland Enterprises,-81578.00,MZN,1,-81578.00,BF - Deposit,BF - DEP,January Rent,Associacao Petty Cash Base
+4,01/03/21,Bailey Base Fees,38193.00,MZN,1,38193.00,BF - Deposit,BF - DEP,January base fees ,Associacao Petty Cash Base
+5,01/04/21,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,December accounting fees ,Associacao Petty Cash Base
+6,01/07/21,Krpicak Base Fees,38193.00,MZN,1,38193.00,BF - Deposit,BF - DEP,January base fees,Associacao Petty Cash Base
+7,01/25/21,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,January accounting fees ,Associacao Petty Cash Base
+8,01/31/21,Close out January,-74433.00,MZN,1,-74433.00,BF - Deposit,BF - DEP,Close out January ,Associacao Petty Cash Base
+
+ 

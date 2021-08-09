@@ -1,0 +1,13 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,336.05,MZN,1,336.05,BF - Deposit,BF - DEP,Beginning Balance ,Kitty Rollover
+2,04/03/20,AMT Laundry,500.00,MZN,1,500.00,BF - Deposit,BF - DEP,March Laundry fees,Kitty Rollover
+3,04/05/20,Tx from Kitty,4575.00,MZN,1,4575.00,BF - Deposit,BF - DEP,Balance transfer ,Kitty Rollover
+4,04/11/20,Carne Osso,-3651.00,MZN,1,-3651.00,BF - Grocery & Other Supplies,BF - SUPP,Meat for braai ,Kitty
+5,04/12/20,Big Tree Stand,-400.00,MZN,1,-400.00,BF - Grocery & Other Supplies,BF - SUPP,Charcoal ,Kitty Rollover
+6,04/13/20,Tx from Kitty,3646.00,MZN,1,3646.00,BF - Deposit,BF - DEP,remainder from kitty ,Kitty
+7,04/18/20,Machavenga,-1057.00,MZN,1,-1057.00,BF - Grocery & Other Supplies,BF - SUPP,Bleach and water ,Kitty Rollover
+8,04/19/20,Tx from Kitty,721.00,MZN,1,721.00,BF - Deposit,BF - DEP,Remainder from kitty,Kitty
+9,04/27/20,Tx from Kitty,199.50,MZN,1,199.50,BF - Deposit,BF - DEP,Leftover balance ,Kitty
+10,04/30/20,Close out month,-4869.55,MZN,1,-4869.55,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+
+ 

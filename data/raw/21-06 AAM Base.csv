@@ -1,0 +1,8 @@
+﻿Receipt Index,Date,Name,Comment,Currency,Price,Category Name,Category Code,Exchange Rate,Price (Exchanged)
+1,6/1/21,Beginning Balance,Beginning Balance,MZN,72288,BF - Deposit,BF - DEP,1,72288
+2,6/1/21,Krpicak Base Fees,Krpicak base fees,MZN,32000,BF - Deposit,BF - DEP,1,32000
+3,6/1/21,Murray Base Fees,Murray base fees,MZN,16000,BF - Deposit,BF - DEP,1,16000
+4,6/1/21,Bailey Base Fees,Bailey Base Fees,MZN,32000,BF - Deposit,BF - DEP,1,32000
+5,6/1/21,"Overland Enterprises, LDA",Rent payment for june,MZN,-90000,"BF - Rent, Other Occupancy",BF - RNT,1,-90000
+6,6/4/21,Somoconta LDA,Accounting fees for April,MZN,-3000,BF - Accounting Fees,BF - ACCT,1,-3000
+7,6/30/21,Closing Balance,Closing balance,MZN,-59288,BF - Deposit,BF - DEP,1,-59288

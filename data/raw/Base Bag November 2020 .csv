@@ -1,0 +1,33 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,11/01/20,Beginning Balance,844.00,MZN,1,844.00,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,11/01/20,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+3,11/02/20,Associação África Missions,79756.00,MZN,1,79756.00,"BF - Rent, Other Occupancy",BF - RNT,November Rent,Base
+4,11/02/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+5,11/02/20,Tx to Base Savings Budget,-4240.00,MZN,1,-4240.00,BF - Deposit,BF - DEP,Taxes ,Base
+6,11/02/20,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay November ,Base
+7,11/03/20,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,October accounting ,Base
+8,11/03/20,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS,Base
+9,11/04/20,Construa,-904.00,MZN,1,-904.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Screws and wood glue ,Base
+10,11/06/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+11,11/10/20,AMS Office,-400.00,MZN,1,-400.00,BF - Office Supplies,BF - OFSUPP,Printer paper ,Base
+12,11/10/20,Construa,-489.00,MZN,1,-489.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Screws ,Base
+13,11/12/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+14,11/16/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+15,11/16/20,Machavenga,-1667.00,MZN,1,-1667.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Blu52,Base
+16,11/18/20,Gindolo,-595.00,MZN,1,-595.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Sanding Discs 3-100,2-36) and Wd40",Base
+17,11/18/20,AMG,-1700.00,MZN,1,-1700.00,BF - Utilities,BF - UTL,Diesel for generator ,Base
+18,11/21/20,Pedro Jose,-480.00,MZN,1,-480.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Capacitor for pool pump,Base
+19,11/21/20,Pedro Jose,-320.00,MZN,1,-320.00,BF - Contract Temporary Help,BF - CNT,Labor for replacing capacitor ,Base
+20,11/22/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+21,11/24/20,Gindolo,-125.00,MZN,1,-125.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,WD 40,Base
+22,11/27/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+23,11/28/20,Domingo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+24,11/30/20,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,November manager salary ,Base
+25,11/30/20,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,November salary ,Base
+26,11/30/20,Jose Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,November salary,Base
+27,11/30/20,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,November salary ,Base
+28,11/30/20,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,November salary ,Base
+29,11/30/20,Gindolo,-940.00,MZN,1,-940.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Drill bits, capacitor for pool pump and Smethurst swingbed fixings",Base
+30,11/30/20,Close out November,-1238.00,MZN,1,-1238.00,BF - Deposit,BF - DEP,Close out November ,Base
+
+ 

@@ -1,0 +1,7 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,02/01/21,Beginning Balance,1755.62,MZN,1,1755.62,BF - Deposit,BF - DEP,Beginning Balance ,Associcao BCI
+2,02/01/21,BCI,-528.00,MZN,1,-528.00,BF - Bank Fees,BF - BNK,Annual card fee ,Associcao BCI
+3,02/01/21,BCI,-528.00,MZN,1,-528.00,BF - Bank Fees,BF - BNK,Annual card fee ,Associcao BCI
+4,02/28/21,Close out February,-699.62,MZN,1,-699.62,BF - Deposit,BF - DEP,Close out February ,Associcao BCI
+
+ 

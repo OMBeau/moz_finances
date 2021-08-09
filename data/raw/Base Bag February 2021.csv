@@ -1,0 +1,31 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,02/01/21,Beginning Balance,25892.50,MZN,1,25892.50,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,02/01/21,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+3,02/02/21,EDM,-6000.00,MZN,1,-6000.00,BF - Utilities,BF - UTL,Electricity ,Base
+4,02/10/21,EDM,-1000.00,MZN,1,-1000.00,BF - Utilities,BF - UTL,Electricity ,Base
+5,02/11/21,Builders,-11400.00,MZN,1,-11400.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Blu52 (6 large),Base
+6,02/12/21,Machavenga,-1839.00,MZN,1,-1839.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Chlorine for pool ,Base
+7,02/12/21,EDM,-2500.00,MZN,1,-2500.00,BF - Utilities,BF - UTL,Electricity ,Base
+8,02/13/21,Associação África Missions,90510.00,MZN,1,90510.00,BF - Deposit,BF - DEP,Rent income February ,Base
+9,02/13/21,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay February ,Base
+10,02/13/21,Tx to Base Savings Budget,-4240.00,MZN,1,-4240.00,BF - Deposit,BF - DEP,Taxes,Base
+11,02/13/21,Tx to Base Savings Spending,-20000.00,MZN,1,-20000.00,BF - Deposit,BF - DEP,Transfer ,Base
+12,02/15/21,Great Wall,-300.00,MZN,1,-300.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,8 pieces of glass ,Base
+13,02/17/21,Firex Sociedade Unipessoal,-8550.00,MZN,1,-8550.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Fire extinguisher servicing ,Base
+14,02/18/21,Gindolo,-585.00,MZN,1,-585.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,3 hinges for laundry room door  ,Base
+15,02/18/21,Gindolo,-125.00,MZN,1,-125.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,WD-40,Base
+16,02/18/21,Construa,-503.00,MZN,1,-503.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Screws ,Base
+17,02/18/21,Cater King,-2517.00,MZN,1,-2517.00,BF - Staff Development,BF - SD,Pants for Alexandre ,Base
+18,02/20/21,Comercio Azul,-735.00,MZN,1,-735.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Pool shock (3),Base
+19,02/22/21,EDM,-4000.00,MZN,1,-4000.00,BF - Utilities,BF - UTL,Electricity ,Base
+20,02/22/21,Pedro Jose,-500.00,MZN,1,-500.00,BF - Contract Temporary Help,BF - CNT,Labor Smethurst geyser ,Base
+21,02/26/21,Gindolo,-195.00,MZN,1,-195.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Hinge for upstairs Villa store room ,Base
+22,02/27/21,José Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,February salary ,Base
+23,02/27/21,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,February salary ,Base
+24,02/27/21,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,February salary,Base
+25,02/27/21,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,February salary ,Base
+26,02/27/21,Gindolo,-250.00,MZN,1,-250.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,WD-40 (2),Base
+27,02/28/21,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Manager salary February ,Base
+28,02/28/21,Close out February,-10733.50,MZN,1,-10733.50,BF - Deposit,BF - DEP,Close out February ,Base
+
+ 

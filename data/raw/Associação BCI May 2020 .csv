@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,05/01/20,Beginning Balance,1730.53,MZN,1,1730.53,BF - Deposit,BF - DEP,Beginning Balance ,Associcao BCI
+2,05/07/20,Overland Missions,182536.05,MZN,1,182536.05,BF - Deposit,BF - DEP,Donation ,AMT
+3,05/07/20,BCI,-1348.00,MZN,1,-1348.00,BF - Bank Fees,BF - BNK,Transfer commission,Associcao BCI
+4,05/07/20,BCI,-26.96,MZN,1,-26.96,BF - Bank Fees,BF - BNK,Stamp duty ,Associcao BCI
+5,05/08/20,Tx to Expeditions,-182536.00,MZN,1,-182536.00,BF - Deposit,BF - DEP,Withdrawal ,AMT
+6,05/11/20,Tx from Expeditions,1400.00,MZN,1,1400.00,BF - Deposit,BF - DEP,Deposit to cover wire fees ,AMT
+7,05/31/20,Close out month,-1755.62,MZN,1,-1755.62,BF - Deposit,BF - DEP, Close out May,Associcao BCI
+
+ 

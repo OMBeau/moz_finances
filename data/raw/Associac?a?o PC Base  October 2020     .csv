@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,10/01/20,Beginning Balance,34744.00,MZN,1,34744.00,BF - Accounting Fees,BF - ACCT,Beginning Balance ,Associacao Petty Cash Base
+2,10/02/20,Krpicak Base Fees,36875.00,MZN,1,36875.00,BF - Deposit,BF - DEP,Base fees October ,Associacao Petty Cash Base
+3,10/02/20,Bailey Base Fees,36875.00,MZN,1,36875.00,BF - Deposit,BF - DEP,October base fees ,Associacao Petty Cash Base
+4,10/03/20,Murray Base Fees,18438.00,MZN,1,18438.00,BF - Deposit,BF - DEP,October Base Fees,Associacao Petty Cash Base
+5,10/03/20,Overland Enterprises,-78763.00,MZN,1,-78763.00,"BF - Rent, Other Occupancy",BF - RNT,October Rent,Associacao Petty Cash Base
+6,10/06/20,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,September accounting ,Associacao Petty Cash Base
+7,10/31/20,Close out October,-45169.00,MZN,1,-45169.00,BF - Deposit,BF - DEP,Close out October ,Associacao Petty Cash Base
+
+ 

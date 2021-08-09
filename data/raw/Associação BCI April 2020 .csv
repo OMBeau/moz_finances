@@ -1,0 +1,7 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,1730.10,MZN,1,1730.10,BF - Deposit,BF - DEP,Beginning Balance ,Associcao BCI
+2,04/01/20,Overland Missions,252256.43,MZN,1,252256.43,BF - Deposit,BF - DEP,April AMT Wire,AMT
+3,04/01/20,Tx to Expeditions,-252256.00,MZN,1,-252256.00,BF - Deposit,BF - DEP,Withdrawal,AMT
+4,04/30/20,Close out month,-1730.53,MZN,1,-1730.53,BF - Deposit,BF - DEP,Remain Balance,Associcao BCI
+
+ 

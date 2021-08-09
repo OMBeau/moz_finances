@@ -1,0 +1,8 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Beginning Balance ,Associacao Petty Cash
+2,04/06/20,Tx from OE Base,3000.00,MZN,1,3000.00,BF - Accounting Fees,BF - ACCT,Somoconta accounting ,Associacao Petty Cash
+3,04/06/20,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,Associação accounting fees,Associacao Petty Cash
+4,04/29/20,Tx from OE Base,750.00,MZN,1,750.00,BF - Office Supplies,BF - OFSUPP,Receipt Book,Base
+5,04/29/20,Gráfica Sul do Save,-750.00,MZN,1,-750.00,BF - Office Supplies,BF - OFSUPP,AAM Receipt book ,Base
+
+ 

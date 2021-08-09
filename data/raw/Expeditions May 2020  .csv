@@ -1,0 +1,37 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,05/01/20,Beginning Balance,99434.50,MZN,1,99434.50,BF - Deposit,BF - DEP,Beginning Balance ,AMT
+2,05/03/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Deposit,BF - DEP,One week kitty fees ,AMT
+3,05/07/20,Machavenga,-250.00,MZN,1,-250.00,BF - Grocery & Other Supplies,BF - SUPP,Masks ,AMT
+4,05/07/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes,AMT
+5,05/07/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+6,05/07/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+7,05/07/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes,AMT
+8,05/08/20,Tx from Associação BCI,182536.00,MZN,1,182536.00,BF - Deposit,BF - DEP,Withdrawal ,AMT
+9,05/09/20,Tx to Overland Enterprise base,-3589.00,MZN,1,-3589.00,BF - Telecommunications,BF - TELE,Internet for remainder of AMT,AMT
+10,05/09/20,Tx to Overland Enterprise base,-66464.00,MZN,1,-66464.00,BF - Deposit,BF - DEP,AMT Base Fees for May ,AMT
+11,05/11/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Deposit,BF - DEP,One week kitty fees ,AMT
+12,05/11/20,Tx to Assoc BCI,-1400.00,MZN,1,-1400.00,BF - Bank Fees,BF - BNK,Deposit to cover wire fees ,AMT
+13,05/11/20,Machavenga,-132.00,MZN,1,-132.00,BF - Grocery & Other Supplies,BF - SUPP,Food coloring for WFR class ,AMT
+14,05/11/20,Comercio Azul,-79.00,MZN,1,-79.00,BF - Grocery & Other Supplies,BF - SUPP,Corn starch for WFR class ,AMT
+15,05/13/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+16,05/13/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+17,05/13/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+18,05/13/20,Vodacom,-500.00,MZN,1,-500.00,BF - Accounting Fees,BF - ACCT,Data for classes ,AMT
+19,05/17/20,Sumi,-3600.00,MZN,1,-3600.00,BF - Entertainment & Meals,BF- ENTML,Amt meal out ,AMT
+20,05/18/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Grocery & Other Supplies,BF - SUPP,Amt Kitty fees one week ,AMT
+21,05/21/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for class ,AMT
+22,05/21/20,Vodacom,-500.00,MZN,1,-500.00,BF - Telecommunications,BF - TELE,Data for class ,AMT
+23,05/22/20,Vodacom,-1000.00,MZN,1,-1000.00,BF - Telecommunications,BF - TELE,Data for classes ,AMT
+24,05/24/20,Tx to Kitty,-14112.00,MZN,1,-14112.00,BF - Deposit,BF - DEP,One week kitty fees AMT,AMT
+25,05/25/20,Comercio Azul,-750.00,MZN,1,-750.00,BF - Grocery & Other Supplies,BF - SUPP,10 bags ice for graduation dinner ,AMT
+26,05/27/20,Machavenga,-8993.00,MZN,1,-8993.00,BF - Grocery & Other Supplies,BF - SUPP,Grad dinner food,AMT
+27,05/27/20,Carne Osso,-3162.00,MZN,1,-3162.00,BF - Grocery & Other Supplies,BF - SUPP,Meat for grad dinner ,AMT
+28,05/28/20,Moz Prints,-480.00,MZN,1,-480.00,BF - Grocery & Other Supplies,BF - SUPP,Balloons for grad dinner ,AMT
+29,05/28/20,Boat Captains,-1000.00,MZN,1,-1000.00,"BF - Honorariums, Gifts, Scholarship",BF - HNR,Honorarium ,AMT
+30,05/29/20,Tx from Rollover,1093.00,MZN,1,1093.00,BF - Deposit,BF - DEP,Reimbursement for kitty items bought on receipt ,AMT
+31,05/29/20,Johnny,-1350.00,MZN,1,-1350.00,BF - Grocery & Other Supplies,BF - SUPP,3kg prawns for grad dinner,AMT
+32,05/29/20,Babalaza Shop,-480.00,MZN,1,-480.00,BF - Grocery & Other Supplies,BF - SUPP,Drinks for grad dinner ,AMT
+33,05/30/20,Jo,-10000.00,MZN,1,-10000.00,"BF - Honorariums, Gifts, Scholarship",BF - HNR,AMT graduation boat trip ,AMT
+34,06/01/20,Close out May,-118886.50,MZN,1,-118886.50,BF - Deposit,BF - DEP,Close out May ,AMT
+
+ 

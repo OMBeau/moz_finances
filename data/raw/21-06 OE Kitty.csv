@@ -1,0 +1,47 @@
+﻿Receipt Index,Date,Name,Comment,Currency,Price,Category Name,Category Code,Exchange Rate,Price (Exchanged)
+1,6/1/21,Krpicak Kitty fees,Krpicak Kitty fees,MZN,5000,BF - Deposit,BF - DEP,1,5000
+2,6/1/21,Bailey Kitty Fees,Bailey Kitty Fees,MZN,5000,BF - Deposit,BF - DEP,1,5000
+3,6/1/21,Beginning Balance,Beginning Balance,MZN,0,BF - Deposit,BF - DEP,1,0
+4,6/2/21,Água para Amigos,65L water refill,MZN,-650,BF - Grocery & Other Supplies,BF - SUPP,1,-650
+5,6/2/21,Carne Osso, Beef and chouriço,MZN,-1519,BF - Grocery & Other Supplies,BF - SUPP,1,-1519
+6,6/2/21,Machavenga LDA,"Milk, onions, avocado, cucumbers, mushrooms, grapefruit, pears, bread, kiwi, tomatoes, eggs, coriander, garlic, carrots",MZN,-2301,BF - Grocery & Other Supplies,BF - SUPP,1,-2301
+7,6/2/21,Comércio Azul LDA,"Eggs, Pineapple, Chicken, Milk, Rice, Oranges, Sugar, Beans, Butter, Cheese, Pasta, Peppers, Lettuce",MZN,-4411,BF - Grocery & Other Supplies,BF - SUPP,1,-4411
+8,6/6/21,Tx to Kitty Rollover,Rollover,MZN,-1119,BF - Deposit,BF - DEP,1,-1119
+9,6/7/21,Krpicak Kitty fees,Krpicak Kitty Fees,MZN,7000,BF - Deposit,BF - DEP,1,7000
+10,6/7/21,Bailey Kitty Fees,Bailey Kitty Fees,MZN,7000,BF - Deposit,BF - DEP,1,7000
+11,6/7/21,Água para Amigos,35L water refill,MZN,-360,BF - Grocery & Other Supplies,BF - SUPP,1,-360
+12,6/7/21,Machavenga LDA,"Bread, Apples, Cabbage, Milk, yogurt, beef, bananas, eggs, mushrooms, avocado, basil, coriander, limes",MZN,-3615,BF - Grocery & Other Supplies,BF - SUPP,1,-3615
+13,6/7/21,Comércio Azul LDA,"Pasta, eggs, pineapple, patatoes, peppers, butter, tomato paste, tomatoes, cheese",MZN,-3634,BF - Grocery & Other Supplies,BF - SUPP,1,-3634
+14,6/7/21,EDM EP,Electricity,MZN,-3000,BF - Utilities,BF - UTL,1,-3000
+15,6/9/21,Comércio Azul LDA,"Eggs, Tomate Paste, milk, pasta, cheese, peppers, chips, sour cream, tomato puree",MZN,-1926,BF - Grocery & Other Supplies,BF - SUPP,1,-1926
+16,6/9/21,Machavenga LDA,"bread, beef, green beans, pineapple, patatoes, basil",MZN,-1083,BF - Grocery & Other Supplies,BF - SUPP,1,-1083
+17,6/13/21,Tx to Kitty Rollover,Rollover,MZN,-382,BF - Deposit,BF - DEP,1,-382
+18,6/14/21,Krpicak Kitty fees,Krpicak Kitty Fees,MZN,7000,BF - Deposit,BF - DEP,1,7000
+19,6/14/21,Bailey Kitty Fees,Bailey Kitty Fees,MZN,7000,BF - Deposit,BF - DEP,1,7000
+20,6/14/21,EDM EP,Electricity,MZN,-3000,BF - Utilities,BF - UTL,1,-3000
+21,6/14/21,Água para Amigos,60L water Refill,MZN,-600,BF - Grocery & Other Supplies,BF - SUPP,1,-600
+22,6/14/21,Machavenga LDA,"potatoes, salad, bread, tomatoes, coriander, beef, papaia, pineapple, thyme, cheese, oil",MZN,-2105,BF - Grocery & Other Supplies,BF - SUPP,1,-2105
+23,6/14/21,Comércio Azul LDA,"eggs, peppers, cucumbers, cheese, onion, garlic, broccoli, chicken, oil, limon, tomatoes, milk",MZN,-3418,BF - Grocery & Other Supplies,BF - SUPP,1,-3418
+24,6/15/21,Comércio Azul LDA,Milk,MZN,-250,BF - Grocery & Other Supplies,BF - SUPP,1,-250
+25,6/15/21,"Maxixe Mart, LDA",Feta,MZN,-354,BF - Grocery & Other Supplies,BF - SUPP,1,-354
+26,6/15/21,Supermercado Number One,2x Bleach,MZN,-310,BF - Grocery & Other Supplies,BF - SUPP,1,-310
+27,6/15/21,Machavenga LDA,"Bread, dill",MZN,-88,BF - Grocery & Other Supplies,BF - SUPP,1,-88
+28,6/18/21,Comércio Azul LDA,"Chicken, toilet paper, flour",MZN,-837,BF - Grocery & Other Supplies,BF - SUPP,1,-837
+29,6/20/21,Tx to Kitty Rollover,Rollover,MZN,-3038,BF - Deposit,BF - DEP,1,-3038
+30,6/21/21,Krpicak Kitty fees,Krpicak Kitty Fees,MZN,7000,BF - Deposit,BF - DEP,1,7000
+31,6/21/21,Bailey Kitty Fees,Bailey Kitty Fees,MZN,7000,BF - Deposit,BF - DEP,1,7000
+32,6/21/21,Machavenga LDA,"Pork, pinapples, avocado, salad dressing, crème, carrots, onions, banana, cheese, jalapenos, feta, tomatoe mushrooms, coriander, bread",MZN,-2672,BF - Grocery & Other Supplies,BF - SUPP,1,-2672
+33,6/21/21,Comércio Azul LDA,"eggs, patatoes, oranges, lime, milk, rice, tomatoes, chicken, carrots, sunlight (dish detergent), butter, stock, cucumbers",MZN,-3914,BF - Grocery & Other Supplies,BF - SUPP,1,-3914
+34,6/21/21,Carne Osso,Pork,MZN,-990,BF - Grocery & Other Supplies,BF - SUPP,1,-990
+35,6/21/21,Machavenga LDA,Tortilla chips,MZN,-489,BF - Grocery & Other Supplies,BF - SUPP,1,-489
+36,6/21/21,EDM EP,Electricity,MZN,-3500,BF - Utilities,BF - UTL,1,-3500
+37,6/24/21,Comércio Azul LDA,"eggs, towels, washing powder, lettuce, oil",MZN,-1277,BF - Grocery & Other Supplies,BF - SUPP,1,-1277
+38,6/27/21,Tx to Kitty Rollover,Rollover,MZN,-1158,BF - Deposit,BF - DEP,1,-1158
+39,6/28/21,Krpicak Kitty fees,Krpicak Kitty Fees,MZN,5000,BF - Deposit,BF - DEP,1,5000
+40,6/28/21,Bailey Kitty Fees,Bailey Base Fees,MZN,5000,BF - Deposit,BF - DEP,1,5000
+41,6/28/21,Água para Amigos,30L water Refill,MZN,-300,BF - Grocery & Other Supplies,BF - SUPP,1,-300
+42,6/28/21,Comércio Azul LDA,"water, eggs, milk, chicken, rice, pasta, brocolli, butter, peppers, cucumbers, cheese, tomatoes, dish soap, feta",MZN,-4721,BF - Grocery & Other Supplies,BF - SUPP,1,-4721
+43,6/28/21,Machavenga LDA,"pineapples, bread, crème, bacon, beef, apples, salad, peppers, spinach, onion, carrots, eggs",MZN,-2173.5,BF - Grocery & Other Supplies,BF - SUPP,1,-2173.5
+44,6/28/21,EDM EP,Electricity,MZN,-2000,BF - Utilities,BF - UTL,1,-2000
+45,6/28/21,EDM EP,Electricity,MZN,-500,BF - Utilities,BF - UTL,1,-500
+46,6/30/21,Tx to Kitty Rollover,Rollover,MZN,-305.5,BF - Deposit,BF - DEP,1,-305.5

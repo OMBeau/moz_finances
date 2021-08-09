@@ -1,0 +1,55 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,06/01/20,Beginning Balance,171521.00,MZN,1,171521.00,BF - Deposit,BF - DEP,Beginning Balance ,Associacao Petty Cash
+2,06/01/20,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay & 13th month,Base Savings
+3,06/01/20,Tx to Base Savings Budget,-2000.00,MZN,1,-2000.00,BF - Deposit,BF - DEP,Taxes,Base Savings
+4,06/01/20,Machavenga,-368.00,MZN,1,-368.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Steel Putty for Generator,Base
+5,06/01/20,EDM,-3000.00,MZN,1,-3000.00,BF - Taxes,BF - TAX,Electricity ,Base
+6,06/01/20,AMG,-1600.00,MZN,1,-1600.00,BF - Utilities,BF - UTL,Diesel for generator ,Base
+7,06/01/20,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+8,06/02/20,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,May accounting fees,Base
+9,06/02/20,Gindolo,-180.00,MZN,1,-180.00,BF - Grocery & Other Supplies,BF - SUPP,Fuses and electrical tape ,Base
+10,06/02/20,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS ,Base
+11,06/02/20,Tx from Expeditions Associação,9648.00,MZN,1,9648.00,BF - Deposit,BF - DEP,"Base Fees for AMT (2 at 7 days each, 2 at 2 days each)",AMT
+12,06/04/20,Builders,-7515.00,MZN,1,-7515.00,BF - Grocery & Other Supplies,BF - SUPP,"Pool supplies, cleaning supplies, propane hoses ",Base
+13,06/06/20,Cater King,-11779.00,MZN,1,-11779.00,BF - Grocery & Other Supplies,BF - SUPP,Insta-Pot,Base
+14,06/06/20,Cater King,-6466.00,MZN,1,-6466.00,BF - Grocery & Other Supplies,BF - SUPP,Pool supplies and flashlight,Base
+15,06/06/20,Tx from Expeditions Associação,7504.00,MZN,1,7504.00,BF - Deposit,BF - DEP,Remainder of baze fees ,AMT
+16,06/06/20,Gabriel Carlos,-200.00,MZN,1,-200.00,BF - Contract Temporary Help,BF - CNT,Extra hours worked ,Base
+17,06/08/20,Lidia Francisco Bia,-200.00,MZN,1,-200.00,BF - Contract Temporary Help,BF - CNT,Extra hours worked,Base
+18,06/08/20,Machavenga,-692.00,MZN,1,-692.00,BF - Grocery & Other Supplies,BF - SUPP,Electrical socket ,Base
+19,06/08/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+20,06/08/20,Associação África Missions,75658.00,MZN,1,75658.00,"BF - Rent, Other Occupancy",BF - RNT,June Rent ,Base
+21,06/08/20,Associação África Missions,6000.00,MZN,1,6000.00,BF - Deposit,BF - DEP,Repayment of loan ,Base
+22,06/09/20,Manuel Almeida,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+23,06/09/20,Gindolo,-480.00,MZN,1,-480.00,BF - Grocery & Other Supplies,BF - SUPP,Nails and sanding discs ,Base
+24,06/10/20,Gindolo,-5910.00,MZN,1,-5910.00,BF - Grocery & Other Supplies,BF - SUPP,"Lamps (4), Adapters (4), Rust remover",Base
+25,06/11/20,Ifil International,-940.00,MZN,1,-940.00,BF - Grocery & Other Supplies,BF - SUPP,(6) hose clamps and one radiator cap for generator ,Base
+26,06/12/20,Gindolo,-1380.00,MZN,1,-1380.00,BF - Grocery & Other Supplies,BF - SUPP,Lacquer thinner ,Base
+27,06/15/20,Auto Peças,-200.00,MZN,1,-200.00,BF - Grocery & Other Supplies,BF - SUPP,Silicone ,Base
+28,06/16/20,Game,-2104.00,MZN,1,-2104.00,BF - Office Supplies,BF - OFSUPP,Color ink cartridge,Base
+29,06/17/20,Builders,-250.00,MZN,1,-250.00,BF - Office Supplies,BF - OFSUPP,Wire Protector Caps,Base
+30,06/18/20,Brandon Murray,920.00,MZN,1,920.00,BF - Building Supplies,BF - BLDG,Purchase of two bags cement from base ,Base
+31,06/18/20,Game,-523.00,MZN,1,-523.00,BF - Grocery & Other Supplies,BF - SUPP,Radiator flush x2,Base
+32,06/19/20,Paulo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+33,06/19/20,Midas Maputo,-6060.00,MZN,1,-6060.00,BF - Grocery & Other Supplies,BF - SUPP,Radiator flush x6,Base
+34,06/20/20,Cater King,-2759.00,MZN,1,-2759.00,BF - Staff Development,BF - SD,New work pants for Gabriel ,Base
+35,06/22/20,Gindolo,-1700.00,MZN,1,-1700.00,BF - Grocery & Other Supplies,BF - SUPP,"Termite poison, silicone, hoses and drill bits ",Base
+36,06/24/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+37,06/24/20,Tx to BCI,-1413.00,MZN,1,-1413.00,BF - Bank Fees,BF - BNK,Wire transfer fees ,Base
+38,06/26/20,Gindolo,-32.50,MZN,1,-32.50,BF - Grocery & Other Supplies,BF - SUPP,Screws ,Base
+39,06/26/20,Naresh Ramniclal,-2550.00,MZN,1,-2550.00,BF - Utilities,BF - UTL,Propane (3),Base
+40,06/26/20,AMG,-220.00,MZN,1,-220.00,BF - Grocery & Other Supplies,BF - SUPP,Diesel injector fluid for generator ,Base
+41,06/26/20,Construa,-435.00,MZN,1,-435.00,BF - Grocery & Other Supplies,BF - SUPP,Screws ,Base
+42,06/29/20,Paulo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+43,06/29/20,Farmácia Mopani,-470.00,MZN,1,-470.00,BF - Grocery & Other Supplies,BF - SUPP,Antibiotic cream for first aid kit ,Base
+44,06/30/20,Jose Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,June Salary ,Base
+45,06/30/20,AMG,-1600.00,MZN,1,-1600.00,BF - Fuel,BF - FUEL,Diesel for generator ,Base
+46,06/30/20,Stirling Base Fees,30000.00,MZN,1,30000.00,BF - Deposit,BF - DEP,June base fees ,Base
+47,06/30/20,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,June salary,Base
+48,06/30/20,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Deposit,BF - DEP,June salary,Base
+49,06/30/20,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,June salary ,Base
+50,06/30/20,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,June salary ,Base
+51,06/30/20,Gindolo,-540.00,MZN,1,-540.00,BF - Grocery & Other Supplies,BF - SUPP,fuel tubes and hacksaw blades ,Base
+52,06/30/20,Close out June,-182182.50,MZN,1,-182182.50,BF - Deposit,BF - DEP,Close out June ,Base
+
+ 

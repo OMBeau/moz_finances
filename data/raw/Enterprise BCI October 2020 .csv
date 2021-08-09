@@ -1,0 +1,7 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,10/01/20,Beginning Balance,4058.37,MZN,1,4058.37,BF - Deposit,BF - DEP,Beginning Balance ,Enterprise BCI
+2,10/01/20,BCI,-528.00,MZN,1,-528.00,BF - Bank Fees,BF - BNK,Annual card fee ,Enterprise BCI
+3,10/01/20,BCI,-528.00,MZN,1,-528.00,BF - Bank Fees,BF - BNK,Annual card fee ,Enterprise BCI
+4,10/31/20,Close out October,-3002.37,MZN,1,-3002.37,BF - Deposit,BF - DEP,Close out October ,Enterprise BCI
+
+ 

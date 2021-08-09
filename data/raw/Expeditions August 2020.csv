@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,08/01/20,Beginning Balance,61721.50,MZN,1,61721.50,BF - Deposit,BF - DEP,Beginning Balance ,AMT
+2,08/31/20,Close out August,-61721.50,MZN,1,-61721.50,BF - Deposit,BF - DEP,Close out August ,AMT
+
+ 

@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,05/01/20,Beginning Balance,21293.00,MZN,1,21293.00,BF - Deposit,BF - DEP,Beginning Balance ,Villa
+2,05/04/20,Alberto,-6500.00,MZN,1,-6500.00,BF - Contract Temporary Help,BF - CNT,Contract labor ,Villa
+3,05/14/20,Mini Banca Guiamba,-525.00,MZN,1,-525.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Crack filler ,Villa
+4,05/14/20,Manito,-1000.00,MZN,1,-1000.00,BF - Contract Temporary Help,BF - CNT,Advance on labor ,Villa
+5,05/21/20,Tx from Base Bag,6732.00,MZN,1,6732.00,BF - Deposit,BF - DEP,Honorarium for Jan,Villa
+6,05/21/20,Manito,-10000.00,MZN,1,-10000.00,BF - Contract Temporary Help,BF - CNT,Painting of Outdoor Villa,Villa
+7,05/26/20,Jan Van Niekerk,-10000.00,MZN,1,-10000.00,BF - Contract Temporary Help,BF - CNT,Villa contract honorarium ,Villa
+
+ 

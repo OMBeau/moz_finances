@@ -1,0 +1,42 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,15822.50,MZN,1,15822.50,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,04/02/20,Tx from Expeditions,18371.00,MZN,1,18371.00,BF - Building Supplies,BF - BLDG,Reimbursement for workshop class supplies ,AMT
+3,04/02/20,Tx from Expeditions,3589.00,MZN,1,3589.00,BF - Telecommunications,BF - TELE,Internet for April,AMT
+4,04/02/20,Tx from Expeditions,42761.50,MZN,1,42761.50,BF - Deposit,BF - DEP,"AMT base fees 24 days 3 people, 9 days 1 person",AMT
+5,04/02/20,Tx to Base Savings Budget,-6750.00,MZN,1,-6750.00,BF - Employee Payroll,BF - EMPRL,Sev Pay April,Base
+6,04/02/20,Tx to Base Savings Budget,-2000.00,MZN,1,-2000.00,BF - Taxes,BF - TAX,,Taxes
+7,04/03/20,Murray Base Fees,16280.00,MZN,1,16280.00,BF - Deposit,BF - DEP,April Base Fees,Base
+8,04/06/20,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,Enterprise Accounting fees ,Base
+9,04/06/20,INSS,-4436.00,MZN,1,-4436.00,BF - Employee Payroll,BF - EMPRL,INSS ,Base
+10,04/06/20,Tx to PC associação,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,Associação accounting ,Associacao Petty Cash
+11,04/07/20,Bailey Base Fees,32560.00,MZN,1,32560.00,BF - Deposit,BF - DEP,April Base Fees,Base
+12,04/07/20,Comercio Azul,-588.00,MZN,1,-588.00,BF - Grocery & Other Supplies,BF - SUPP,Pool shock,Base
+13,04/07/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+14,04/07/20,Krpicak Base Fees,63560.00,MZN,1,63560.00,BF - Deposit,BF - DEP,April base fees ,Base
+15,04/13/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+16,04/13/20,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+17,04/14/20,Machavenga,-2689.00,MZN,1,-2689.00,BF - Grocery & Other Supplies,BF - SUPP,Pool chemicals,Base
+18,04/20/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+19,04/20/20,Naresh Ramniclal,-3400.00,MZN,1,-3400.00,BF - Utilities,BF - UTL,4 Propane Exchange,Base
+20,04/20/20,Gindolo,-5360.00,MZN,1,-5360.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Sanding Sealer, Paint Thinner, Turpentine ",Base
+21,04/20/20,Gindolo,-600.00,MZN,1,-600.00,BF - Grocery & Other Supplies,BF - SUPP,Worker masks ,Base
+22,04/21/20,Gindolo,-2790.00,MZN,1,-2790.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Blue52 and circuit breaker ,Base
+23,04/21/20,Porter Base Fees,16280.00,MZN,1,16280.00,BF - Deposit,BF - DEP,Base fees ,Base
+24,04/22/20,Machavenga,-765.00,MZN,1,-765.00,BF - Grocery & Other Supplies,BF - SUPP,Extension cords ,Base
+25,04/25/20,Comercio Azul,-1944.00,MZN,1,-1944.00,BF - Grocery & Other Supplies,BF - SUPP,Tupperware ,Base
+26,04/26/20,Tx from Expeditions,12864.00,MZN,1,12864.00,BF - Deposit,BF - DEP,6 days AMT base fees,AMT
+27,04/27/20,Stirling Base Fees,32560.00,MZN,1,32560.00,BF - Deposit,BF - DEP,One month base fees ,Base
+28,04/27/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+29,04/27/20,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+30,04/27/20,Construa,-16124.00,MZN,1,-16124.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Chapas for generator roof and nails,Base
+31,04/28/20,ISPC,-9420.00,MZN,1,-9420.00,BF - Taxes,BF - TAX,ISPC ,Base
+32,04/29/20,AMS Office,-825.00,MZN,1,-825.00,BF - Office Supplies,BF - OFSUPP,Trash can and paper clips,Base
+33,04/29/20,Tx to Associação Base,-750.00,MZN,1,-750.00,BF - Office Supplies,BF - OFSUPP,Receipt Book,Base
+34,04/30/20,Jose Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,Salary ,Base
+35,04/30/20,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,Salary,Base
+36,04/30/20,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,Salary,Base
+37,04/30/20,Lídia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,Salary,Base
+38,04/30/20,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Salary,Base
+39,04/30/20,Close out month,-111727.00,MZN,1,-111727.00,BF - Deposit,BF - DEP,Close out month ,Base
+
+ 

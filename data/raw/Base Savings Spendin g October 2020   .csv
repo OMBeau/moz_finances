@@ -1,0 +1,13 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,10/01/20,Beginning Balance,116465.82,MZN,1,116465.82,BF - Deposit,BF - DEP,Beginning Balance ,Base Savings Spending
+2,10/01/20,Tx to Base Bag,-10000.00,MZN,1,-10000.00,BF - Deposit,BF - DEP,Transfer ,Base Savings Spending
+3,10/03/20,Jan Van Niekerk,-5000.00,MZN,1,-5000.00,BF - Contract Temporary Help,BF - CNT,Phases project,Base Savings Spending
+4,10/13/20,Pedro Jose,-4500.00,MZN,1,-4500.00,BF - Contract Temporary Help,BF - CNT,Villa French Drain Labor ,Base Savings Spending
+5,10/20/20,Builders,-3470.00,MZN,1,-3470.00,BF - Grocery & Other Supplies,BF - SUPP,Blu52 and pool skimmer net ,Base Savings Spending
+6,10/21/20,Gindolo,-2736.00,MZN,1,-2736.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Screens, hinges, window locks, screws and turpentine ",Base Savings Spending
+7,10/22/20,Almeida Construção,-1800.00,MZN,1,-1800.00,BF - Building Supplies,BF - BLDG,60 blocks @30 for villa French drain ,Base Savings Spending
+8,10/24/20,Machavenga,-1715.00,MZN,1,-1715.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Chlorine 4kg,Base Savings Spending
+9,10/28/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base Savings Spending
+10,10/31/20,Close out October,-85244.82,MZN,1,-85244.82,BF - Deposit,BF - DEP,Close out October ,Base Savings Spending
+
+ 

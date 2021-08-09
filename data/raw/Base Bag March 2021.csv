@@ -1,0 +1,32 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,03/01/21,Beginning Balance,10733.50,MZN,1,10733.50,BF - Deposit,BF - DEP,Beginning Balance ,Base
+2,03/01/21,EDM,-4000.00,MZN,1,-4000.00,BF - Utilities,BF - UTL,Electricity ,Base
+3,03/01/21,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,1x trash removal ,Base
+4,03/01/21,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+5,03/02/21,Associação África Missions,90090.00,MZN,1,90090.00,BF - Deposit,BF - DEP,Rent for March ,Base
+6,03/02/21,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay & 13th month,Base
+7,03/02/21,Tx to Base Savings Budget,-4240.00,MZN,1,-4240.00,BF - Deposit,BF - DEP,Land/Activity Tax,Base
+8,03/02/21,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,February accounting  ,Base
+9,03/02/21,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS ,Base
+10,03/03/21,Paizinho Comercial,-220.00,MZN,1,-220.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Screws for Smethurst veranda bed,Base
+11,03/05/21,Pep,-329.00,MZN,1,-329.00,BF - Grocery & Other Supplies,BF - SUPP,Mugs for worker kitchen,Base
+12,03/08/21,Gindolo,-1140.00,MZN,1,-1140.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Gloves and hinges for outdoor kitchen windows ,Base
+13,03/08/21,Naresh Ramniclal,-1500.00,MZN,1,-1500.00,BF - Utilities,BF - UTL,Two propane tank exchanges,Base
+14,03/08/21,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+15,03/11/21,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,Trash Removal (vines),Base
+16,03/13/21,EDM,-4000.00,MZN,1,-4000.00,BF - Utilities,BF - UTL,Electricity ,Base
+17,03/13/21,Cater King,-21851.00,MZN,1,-21851.00,BF - Building Supplies,BF - BLDG,100 liter geyser for Smethurst house,Base
+18,03/16/21,Builders,-2675.00,MZN,1,-2675.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Blu52 (3),Base
+19,03/19/21,Pedro Jose,-200.00,MZN,1,-200.00,BF - Contract Temporary Help,BF - CNT,Fix gas line MC stove ,Base
+20,03/21/21,EDM,-4000.00,MZN,1,-4000.00,BF - Utilities,BF - UTL,Electricity ,Base
+21,03/23/21,Gindolo,-330.00,MZN,1,-330.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,2 sets of hinges Villa windows ,Base
+22,03/27/21,EDM,-2500.00,MZN,1,-2500.00,BF - Utilities,BF - UTL,Electricity ,Base
+23,03/28/21,Cater King,-497.00,MZN,1,-497.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,5L Blu52 pool acid ,Base
+24,03/31/21,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Manager salary ,Base
+25,03/31/21,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,March Salary,Base
+26,03/31/21,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,March Salary,Base
+27,03/31/21,José Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,March Salary ,Base
+28,03/31/21,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,March Salary ,Base
+29,03/31/21,Close out March,-139.50,MZN,1,-139.50,BF - Deposit,BF - DEP,Close out March ,Base
+
+ 

@@ -1,0 +1,28 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,10/01/20,Beginning Balance,2487.00,MZN,1,2487.00,BF - Deposit,BF - DEP,Beginning Balance ,Kitty
+2,10/02/20,EDM,-1000.00,MZN,1,-1000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+3,10/02/20,Carne Osso,-793.00,MZN,1,-793.00,BF - Grocery & Other Supplies,BF - SUPP,Meat ,Kitty
+4,10/04/20,Maxixe Market,-100.00,MZN,1,-100.00,BF - Grocery & Other Supplies,BF - SUPP,Bananas,Kitty
+5,10/05/20,Tx to Rollover,-594.00,MZN,1,-594.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+6,10/05/20,Krpicak Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+7,10/05/20,Murray Kitty Fees,2500.00,MZN,1,2500.00,BF - Deposit,BF - DEP,Five days kitty fees ,Kitty
+8,10/05/20,Agua Para Amigos,-300.00,MZN,1,-300.00,BF - Grocery & Other Supplies,BF - SUPP,Water refills ,Kitty
+9,10/05/20,Comercio Azul,-230.00,MZN,1,-230.00,BF - Grocery & Other Supplies,BF - SUPP,Eggs ,Kitty
+10,10/05/20,Machavenga,-720.00,MZN,1,-720.00,BF - Grocery & Other Supplies,BF - SUPP,Toilet paper ,Kitty
+11,10/05/20,Comercio Azul,-2311.00,MZN,1,-2311.00,BF - Grocery & Other Supplies,BF - SUPP,"Canned goods, paper towels, washing powder, chicken, carrots",Kitty
+12,10/05/20,Machavenga,-2431.00,MZN,1,-2431.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, Fruit, Sponges, Cheese, Cream Cheese",Kitty
+13,10/05/20,Comercio Azul,-155.00,MZN,1,-155.00,BF - Grocery & Other Supplies,BF - SUPP,Bleach,Kitty
+14,10/06/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+15,10/12/20,Murray Kitty Fees,3500.00,MZN,1,3500.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+16,10/12/20,Krpicak Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+17,10/12/20,Machavenga,-2775.00,MZN,1,-2775.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, Cheese, Meat, Fruit",Kitty
+18,10/12/20,Machavenga,-458.00,MZN,1,-458.00,BF - Grocery & Other Supplies,BF - SUPP,Bacon,Kitty
+19,10/12/20,Comercio Azul,-2216.00,MZN,1,-2216.00,BF - Grocery & Other Supplies,BF - SUPP,"Eggs, Canned goods, Pasta, Chicken, Water",Kitty
+20,10/13/20,Tx to Rollover,-353.00,MZN,1,-353.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+21,10/13/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+22,10/15/20,Machavenga,-77.00,MZN,1,-77.00,BF - Grocery & Other Supplies,BF - SUPP,Green beans and bread,Kitty
+23,10/16/20,Machavenga,-1746.00,MZN,1,-1746.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, Meat, Fruit, Cheese, Tuna",Kitty
+24,10/18/20,Tx to Rollover,-228.00,MZN,1,-228.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+25,10/31/20,Close out October,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Close out October ,Kitty
+
+ 

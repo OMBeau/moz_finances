@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,05/01/21,Beginning Balance,3003.25,MZN,1,3003.25,BF - Deposit,BF - DEP,Beginning Balance ,Enterprise BCI
+2,05/31/21,Close out May,-3003.25,MZN,1,-3003.25,BF - Deposit,BF - DEP,Close out May ,Enterprise BCI
+
+ 

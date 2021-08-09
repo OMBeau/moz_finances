@@ -1,0 +1,39 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment
+1,05/01/21,Beginning Balance,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Beginning balance
+2,05/04/21,Bailey Kitty Fees,5000.00,MZN,1,5000.00,BF - Deposit,BF - DEP,Bailey Kitty Fees
+3,05/04/21,Kochen Kitty Fees,5000.00,MZN,1,5000.00,BF - Deposit,BF - DEP,Kochen kitty fees
+4,05/04/21,Machavenga,-3857.00,MZN,1,-3857.00,BF - Grocery & Other Supplies,BF - SUPP,"Meat, butter, cheese, jelly, tomatoes, bacon, carrots"
+5,05/04/21,Comércio Azul LDA,-3975.00,MZN,1,-3975.00,BF - Grocery & Other Supplies,BF - SUPP,"Eggs, pasta, tomato sauce, vinegar, corn, chicken"
+6,05/05/21,Comércio Azul LDA,-693.00,MZN,1,-693.00,BF - Grocery & Other Supplies,BF - SUPP,"Black beans, pasta, olives, chorizo "
+7,05/05/21,EDM,-1000.00,MZN,1,-1000.00,BF - Utilities,BF - UTL,Electricity 
+8,05/05/21,Água Para Amigos,-350.00,MZN,1,-350.00,BF - Grocery & Other Supplies,BF - SUPP,36 liters of water
+9,05/09/21,Tx to Kitty Rollover,-125.00,MZN,1,-125.00,BF - Deposit,BF - DEP,Tx to Kitty Rollover
+10,05/10/21,Bailey Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,Bailey Kitty Fees
+11,05/10/21,Kochen Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,Kochen Kitty Fees
+12,05/10/21,EDM,-2500.00,MZN,1,-2500.00,BF - Utilities,BF - UTL,Electricity
+13,05/10/21,Comércio Azul LDA,-420.00,MZN,1,-420.00,BF - Grocery & Other Supplies,BF - SUPP,30 liters of water
+14,05/10/21,Água Para Amigos,-350.00,MZN,1,-350.00,BF - Grocery & Other Supplies,BF - SUPP,35 liters of water
+15,05/11/21,Comércio Azul LDA,-2654.00,MZN,1,-2654.00,BF - Grocery & Other Supplies,BF - SUPP,"Coconut milk, black beans, cream, pasta, cheese, cucumber, onions etc"
+16,05/11/21,Machavenga,-2869.00,MZN,1,-2869.00,BF - Grocery & Other Supplies,BF - SUPP,"Meat, yogurt, polenta, milk, squash, potatoes, carrots, cheese, peppers, curry paste"
+17,05/11/21,Carne Osso,-847.00,MZN,1,-847.00,BF - Grocery & Other Supplies,BF - SUPP,Beef
+18,05/12/21,Machavenga,-145.00,MZN,1,-145.00,BF - Grocery & Other Supplies,BF - SUPP,Spinach x 2
+19,05/15/21,Comércio Azul LDA,-4165.00,MZN,1,-4165.00,BF - Grocery & Other Supplies,BF - SUPP,"Tomatoes, eggs, coconut milk, cream, soy sauce, vinegar, milk, chicken, apples"
+20,05/15/21,Tx to Kitty Rollover,-50.00,MZN,1,-50.00,BF - Deposit,BF - DEP,Tx to Kitty rollover
+21,05/15/21,Bailey Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,Bailey Kitty fees
+22,05/15/21,Kochen Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,Kochen kitty fees
+23,05/15/21,Machavenga,-1314.00,MZN,1,-1314.00,BF - Grocery & Other Supplies,BF - SUPP,"Onions, butter, Mayo, pineapple, herbs, bread, garlic, grapes"
+24,05/15/21,Comércio Azul LDA,-140.00,MZN,1,-140.00,BF - Grocery & Other Supplies,BF - SUPP,10 liters of water
+25,05/17/21,Comércio Azul LDA,-315.00,MZN,1,-315.00,BF - Grocery & Other Supplies,BF - SUPP,Eggs and ice
+26,05/17/21,EDM,-1500.00,MZN,1,-1500.00,BF - Utilities,BF - UTL,Electricity
+27,05/20/21,Água Para Amigos,-500.00,MZN,1,-500.00,BF - Grocery & Other Supplies,BF - SUPP,50 liters of water
+28,05/20/21,Machavenga,-4275.00,MZN,1,-4275.00,BF - Grocery & Other Supplies,BF - SUPP,"Sausage, mince meat, cheese, custard, avocado, oranges, garlic bread, chives, kale, herbs, peppers, vegetable oil "
+29,05/20/21,Comércio Azul LDA,-4917.00,MZN,1,-4917.00,BF - Grocery & Other Supplies,BF - SUPP,"Lettuce,  eggs, herbs, rice, oil, chicken, spices, garlic, cheese, pesto, potatoes, pineapple, cream, cucumbers"
+30,05/23/21,Tx to Kitty Rollover,-1039.00,MZN,1,-1039.00,BF - Deposit,BF - DEP,Tx to kitty rollover
+31,05/24/21,Kochen Kitty Fees,1000.00,MZN,1,1000.00,BF - Deposit,BF - DEP,Kochen kitty fees
+32,05/24/21,Bailey Kitty Fees,1000.00,MZN,1,1000.00,BF - Deposit,BF - DEP,Bailey kitty fees
+33,05/24/21,Água Para Amigos,-300.00,MZN,1,-300.00,BF - Grocery & Other Supplies,BF - SUPP,30 Liters of water
+34,05/24/21,Comércio Azul LDA,-819.00,MZN,1,-819.00,BF - Grocery & Other Supplies,BF - SUPP,"Cheese, ginger powder, oil, milk, sugar"
+35,05/25/21,Tx to Kitty Rollover,-881.00,MZN,1,-881.00,BF - Deposit,BF - DEP,Tx to kitty rollover
+36,05/31/21,Closing Balance,0.00,MZN,1,0.00,BF - Deposit,BF - DEP, Closing balance
+
+ 

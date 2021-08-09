@@ -1,0 +1,16 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,07/01/20,Beginning Balance,10340.05,MZN,1,10340.05,BF - Deposit,BF - DEP,Beginning Balance ,Kitty Rollover
+2,07/03/20,Machavenga,-1310.00,MZN,1,-1310.00,BF - Grocery & Other Supplies,BF - SUPP,"Sugar, Butter, Cake decorations",Kitty Rollover
+3,07/03/20,Machavenga,-422.00,MZN,1,-422.00,BF - Grocery & Other Supplies,BF - SUPP,"Baking chocolate, condensed milk ",Kitty Rollover
+4,07/08/20,Tx from Kitty,1247.50,MZN,1,1247.50,BF - Deposit,BF - DEP,Remaining balance from last week kitty,Kitty Rollover
+5,07/10/20,Machavenga,-886.00,MZN,1,-886.00,BF - Grocery & Other Supplies,BF - SUPP,Toilet paper ,Kitty Rollover
+6,07/12/20,Tx from Kitty,758.00,MZN,1,758.00,BF - Deposit,BF - DEP,Leftover balance ,Kitty Rollover
+7,07/15/20,Machavenga,-1333.00,MZN,1,-1333.00,BF - Grocery & Other Supplies,BF - SUPP,"Spices, Salad Dressing, Peelers ",Kitty Rollover
+8,07/15/20,Pep,-182.00,MZN,1,-182.00,BF - Grocery & Other Supplies,BF - SUPP,dish towels ,Kitty Rollover
+9,07/18/20,Comercio Azul,-415.00,MZN,1,-415.00,BF - Grocery & Other Supplies,BF - SUPP,Washing powder ,Kitty Rollover
+10,07/20/20,Tx from Kitty,33.00,MZN,1,33.00,BF - Deposit,BF - DEP,Leftover balance ,Kitty Rollover
+11,07/22/20,AMT Laundry,400.00,MZN,1,400.00,BF - Deposit,BF - DEP,Laundry ,Kitty Rollover
+12,07/24/20,Carne Osso,-200.00,MZN,1,-200.00,BF - Grocery & Other Supplies,BF - SUPP,Pregos ,Kitty Rollover
+13,07/31/20,Close out July,-8030.55,MZN,1,-8030.55,BF - Deposit,BF - DEP,Close out July,Kitty Rollover
+
+ 

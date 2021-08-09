@@ -1,0 +1,30 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,11/01/20,Beginning Balance,287699.00,MZN,1,287699.00,BF - Deposit,BF - DEP,Beginning Balance ,Wall
+2,11/02/20,Almeida Construção,-15000.00,MZN,1,-15000.00,BF - Building Supplies,BF - BLDG,500 Blockos @30mzn,Wall
+3,11/03/20,Paulo,-7000.00,MZN,1,-7000.00,BF - Contract Temporary Help,BF - CNT,Partial payment contract labor ,Wall
+4,11/05/20,Alberto Bennet,-5000.00,MZN,1,-5000.00,BF - Contract Temporary Help,BF - CNT,Partial payment contract labor ,Wall
+5,11/05/20,Domingo,-17625.00,MZN,1,-17625.00,BF - Building Supplies,BF - BLDG,"25 bags cement @505, 1 truck sand @5000",Wall
+6,11/05/20,Domingo,-2600.00,MZN,1,-2600.00,BF - Travel & Incidentals,BF - TRV,"7x transport sand @300, 1 transport cement @500",Wall
+7,11/09/20,Domingo,-25250.00,MZN,1,-25250.00,BF - Building Supplies,BF - BLDG,50 bags cement @505,Wall
+8,11/09/20,Domingo,-1000.00,MZN,1,-1000.00,BF - Travel & Incidentals,BF - TRV,2x transport cement @500,Wall
+9,11/11/20,Domingo,-12750.00,MZN,1,-12750.00,BF - Building Supplies,BF - BLDG,25 bags cement @510,Wall
+10,11/11/20,Domingo,-500.00,MZN,1,-500.00,BF - Travel & Incidentals,BF - TRV,1x transport cement ,Wall
+11,11/12/20,Tx from AAM Expeditions,61746.50,MZN,1,61746.50,BF - Deposit,BF - DEP,Reclass from AMT to Wall ,Wall
+12,11/16/20,Construa,-12625.00,MZN,1,-12625.00,BF - Building Supplies,BF - BLDG,25 bag cement @505,Wall
+13,11/16/20,Domingo,-1000.00,MZN,1,-1000.00,BF - Travel & Incidentals,BF - TRV,1x transport cement ,Wall
+14,11/16/20,Domingo Comercial,-800.00,MZN,1,-800.00,BF - Building Supplies,BF - BLDG,"3kg 3” nails, 5kg wire, all @100/kg",Wall
+15,11/18/20,Construa,-316.00,MZN,1,-316.00,BF - Building Supplies,BF - BLDG,Chalk ,Wall
+16,11/19/20,Domingo,-12500.00,MZN,1,-12500.00,BF - Building Supplies,BF - BLDG,25 bag cement @500,Wall
+17,11/19/20,Domingo,-500.00,MZN,1,-500.00,BF - Travel & Incidentals,BF - TRV,1x transport cement ,Wall
+18,11/19/20,To from BCI,27278.00,MZN,1,27278.00,BF - Deposit,BF - DEP,Transfer for wall ,Wall
+19,11/20/20,Alberto Bennet,-30000.00,MZN,1,-30000.00,BF - Contract Temporary Help,BF - CNT,Partial payment contract labor ,Wall
+20,11/21/20,Alberto Bennet,-25500.00,MZN,1,-25500.00,BF - Contract Temporary Help,BF - CNT,Final payment contract labor ,Wall
+21,11/24/20,Domingo,-12750.00,MZN,1,-12750.00,BF - Building Supplies,BF - BLDG,25 cement @510,Wall
+22,11/24/20,Domingo,-5000.00,MZN,1,-5000.00,BF - Building Supplies,BF - BLDG,1 Truck Sand,Wall
+23,11/24/20,Domingo,-2600.00,MZN,1,-2600.00,BF - Travel & Incidentals,BF - TRV,"7x transport sand @300, 1x transport cement @500",Wall
+24,11/24/20,Almeida Construção,-8100.00,MZN,1,-8100.00,BF - Building Supplies,BF - BLDG,270 blockos @30,Wall
+25,11/28/20,Domingo,-500.00,MZN,1,-500.00,BF - Travel & Incidentals,BF - TRV,Transport cement ,Wall
+26,11/28/20,Domingo,-12500.00,MZN,1,-12500.00,BF - Building Supplies,BF - BLDG,25 bag cement @500,Wall
+27,11/30/20,Close out November,-165307.50,MZN,1,-165307.50,BF - Deposit,BF - DEP,Close out November,Wall
+
+ 

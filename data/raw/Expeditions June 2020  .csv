@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,06/01/20,Beginning Balance,118886.50,MZN,1,118886.50,BF - Deposit,BF - DEP,Beginning Balance ,AMT
+2,06/01/20,Tx to Kitty,-9072.00,MZN,1,-9072.00,BF - Deposit,BF - DEP,Amt kitty fees partial ,AMT
+3,06/02/20,Tx to Overland Enterprise base,-9648.00,MZN,1,-9648.00,BF - Accounting Fees,BF - ACCT,Base Fees AMT (2 at 7 days each and 2 at 2 days each),AMT
+4,06/06/20,Tx to Overland Enterprise base,-7504.00,MZN,1,-7504.00,BF - Deposit,BF - DEP,Remainder of AMT base fees ,AMT
+5,06/06/20,Tx to Kitty,-3024.00,MZN,1,-3024.00,BF - Deposit,BF - DEP,AMT kitty 2 people for 3 days ,AMT
+6,06/08/20,Tx to Kitty,-4032.00,MZN,1,-4032.00,BF - Deposit,BF - DEP,Two days kitty fees ,AMT
+7,06/30/20,Close out June,-85606.50,MZN,1,-85606.50,BF - Deposit,BF - DEP,Close out June,Expeditions
+
+ 

@@ -1,0 +1,21 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,06/01/20,Beginning Balance,12233.55,MZN,1,12233.55,BF - Deposit,BF - DEP,Beginning Balance ,Kitty Rollover
+2,06/03/20,Woolworths,-1444.00,MZN,1,-1444.00,BF - Grocery & Other Supplies,BF - SUPP,Espresso beans ,Kitty Rollover
+3,06/06/20,Cater King,-3311.00,MZN,1,-3311.00,BF - Grocery & Other Supplies,BF - SUPP,Olive Oil and Sugar ,Kitty Rollover
+4,06/08/20,Tx from Kitty,7073.00,MZN,1,7073.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+5,06/13/20,Machavenga,-2304.00,MZN,1,-2304.00,BF - Grocery & Other Supplies,BF - SUPP,Butter (6),Kitty Rollover
+6,06/14/20,Machavenga,-2403.50,MZN,1,-2403.50,BF - Grocery & Other Supplies,BF - SUPP,"Cheese, Cream, Veggies, Beans, Tortillas ",Kitty Rollover
+7,06/15/20,Machavenga,-1061.00,MZN,1,-1061.00,BF - Grocery & Other Supplies,BF - SUPP,"Water, Pineapples and Red Onions",Kitty Rollover
+8,06/15/20,Comercio Azul,-599.00,MZN,1,-599.00,BF - Grocery & Other Supplies,BF - SUPP,5L soya oil ,Kitty Rollover
+9,06/15/20,Tx from Kitty,485.00,MZN,1,485.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+10,06/18/20,Premier Superspar,-1682.00,MZN,1,-1682.00,BF - Grocery & Other Supplies,BF - SUPP,"Stock, Ziploc and Cinnamon ",Kitty Rollover
+11,06/18/20,Game,-1080.00,MZN,1,-1080.00,BF - Grocery & Other Supplies,BF - SUPP,Ziplock bags,Kitty Rollover
+12,06/22/20,Tx from Kitty,444.00,MZN,1,444.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+13,06/22/20,Stirling Kitty Fees,6560.00,MZN,1,6560.00,BF - Deposit,BF - DEP,Last week kitty fees 5 days,Kitty Rollover
+14,06/24/20,Carne Osso,-2196.00,MZN,1,-2196.00,BF - Grocery & Other Supplies,BF - SUPP,Meat,Kitty Rollover
+15,06/27/20,Machavenga,-2133.00,MZN,1,-2133.00,BF - Grocery & Other Supplies,BF - SUPP,"Bleach, TP, Icing sugar ",Kitty Rollover
+16,06/29/20,Tx from Kitty,1358.00,MZN,1,1358.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty Rollover
+17,06/30/20,AMT Laundry,400.00,MZN,1,400.00,BF - Deposit,BF - DEP,Laundry payment ,Kitty Rollover
+18,06/30/20,Close out June,-10340.05,MZN,1,-10340.05,BF - Deposit,BF - DEP, Close out June,Kitty Rollover
+
+ 

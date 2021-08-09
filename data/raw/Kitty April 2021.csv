@@ -1,0 +1,24 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/21,Beginning Balance,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Beginning Balance ,Kitty
+2,04/07/21,Bailey Kitty Fees,4000.00,MZN,1,4000.00,BF - Deposit,BF - DEP,4 days kitty fees ,Kitty
+3,04/07/21,Murray Kitty Fees,2000.00,MZN,1,2000.00,BF - Deposit,BF - DEP,4 days kitty fees ,Kitty
+4,04/07/21,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+5,04/07/21,Comercio Azul,-1219.00,MZN,1,-1219.00,BF - Grocery & Other Supplies,BF - SUPP,"Squash, Chicken, Rice, Water",Kitty
+6,04/07/21,Machavenga,-307.00,MZN,1,-307.00,BF - Grocery & Other Supplies,BF - SUPP,Veggies ,Kitty
+7,04/08/21,Machavenga,-122.00,MZN,1,-122.00,BF - Grocery & Other Supplies,BF - SUPP,Pão and Garlic ,Kitty
+8,04/09/21,Comercio Azul,-271.00,MZN,1,-271.00,BF - Grocery & Other Supplies,BF - SUPP,Eggs and ginger,Kitty
+9,04/09/21,EDM,-1000.00,MZN,1,-1000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+10,04/09/21,Machavenga,-724.00,MZN,1,-724.00,BF - Grocery & Other Supplies,BF - SUPP,3 packs mince meat,Kitty
+11,04/11/21,Machavenga,-265.00,MZN,1,-265.00,BF - Grocery & Other Supplies,BF - SUPP,Spinach and rye bread,Kitty
+12,04/12/21,Tx to Rollover,-92.00,MZN,1,-92.00,BF - Deposit,BF - DEP,Leftover balance to rollover,Kitty
+13,04/12/21,Murray Kitty Fees,3500.00,MZN,1,3500.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+14,04/12/21,Bailey Kitty Fees,7000.00,MZN,1,7000.00,BF - Deposit,BF - DEP,One week kitty fees ,Kitty
+15,04/12/21,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+16,04/12/21,Comercio Azul,-3246.00,MZN,1,-3246.00,BF - Grocery & Other Supplies,BF - SUPP,"Rice, Meat, Milk, Pasta, Eggs, Cheese",Kitty
+17,04/12/21,Machavenga,-4212.00,MZN,1,-4212.00,BF - Grocery & Other Supplies,BF - SUPP,"Veggies, Tortillas, Meat, Black Beans",Kitty
+18,04/15/21,Bailey Kitty Fees,1000.00,MZN,1,1000.00,BF - Deposit,BF - DEP,Extra Kitty Fees ,Kitty
+19,04/15/21,EDM,-1000.00,MZN,1,-1000.00,BF - Utilities,BF - UTL,Electricity ,Kitty
+20,04/19/21,Tx to Rollover,-42.00,MZN,1,-42.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+21,04/30/21,Close out April,0.00,MZN,1,0.00,BF - Deposit,BF - DEP,Close out April,Kitty
+
+ 

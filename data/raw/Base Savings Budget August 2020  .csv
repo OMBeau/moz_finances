@@ -1,0 +1,10 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,08/01/20,Beginning Balance,185900.00,MZN,1,185900.00,BF - Deposit,BF - DEP,Beginning Balance ,Base Savings Budget
+2,08/05/20,Tx from Base,7150.00,MZN,1,7150.00,BF - Deposit,BF - DEP,Sev Pay August ,Base Savings Budget
+3,08/05/20,Tx from Base,2000.00,MZN,1,2000.00,BF - Deposit,BF - DEP,Taxes ,Base Savings Budget
+4,08/05/20,Noah Filimone,-60000.00,MZN,1,-60000.00,"BF - Honorariums, Gifts, Scholarship",BF - HNR,Loan ,Base Savings Budget
+5,08/27/20,Gabriel Carlos,-10000.00,MZN,1,-10000.00,"BF - Honorariums, Gifts, Scholarship",BF - HNR,Loan,Base Savings Budget
+6,08/29/20,Noah Filimone,7000.00,MZN,1,7000.00,"BF - Honorariums, Gifts, Scholarship",BF - HNR,Partial repayment of loan,Base Savings Budget
+7,08/31/20,Close out August,-132050.00,MZN,1,-132050.00,BF - Deposit,BF - DEP,Close out August ,Base Savings Budget
+
+ 

@@ -1,0 +1,11 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment
+1,05/01/21,Beginning Balance,75288.00,MZN,1,75288.00,BF - Deposit,BF - DEP,Beginning balance
+2,05/02/21,Krpicak Base fees,30220.00,MZN,1,30220.00,BF - Deposit,BF - DEP,Krpicak base fees
+3,05/02/21,Murray Base Fees,15110.00,MZN,1,15110.00,BF - Deposit,BF - DEP,Murray base fees
+4,05/02/21,Bailey Base Fees,30220.00,MZN,1,30220.00,BF - Deposit,BF - DEP,Bailey base fees
+5,05/03/21,Somoconta,-3000.00,MZN,1,-3000.00,BF - Accounting Fees,BF - ACCT,Accounting fees for April 
+6,05/03/21,Kochen Base Fees,26220.00,MZN,1,26220.00,BF - Deposit,BF - DEP,Kochen Base fees
+7,05/03/21,Overland Enterprises,-101770.00,MZN,1,-101770.00,"BF - Rent, Other Occupancy",BF - RNT,Rent Payment for May
+8,05/31/21,Closing Balance,-72288.00,MZN,1,-72288.00,BF - Deposit,BF - DEP,Closing balance
+
+ 

@@ -1,0 +1,6 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,04/01/20,Beginning Balance,71772.82,MZN,1,71772.82,BF - Deposit,BF - DEP,Beginning Balance ,Base Savings
+2,04/06/20,Donation from Joe West,19855.00,MZN,1,19855.00,BF - Deposit,BF - DEP,Donation ,Base Savings
+3,04/30/20,Close out month,-91627.82,MZN,1,-91627.82,BF - Deposit,BF - DEP,Remaining balance ,Base Savings
+
+ 

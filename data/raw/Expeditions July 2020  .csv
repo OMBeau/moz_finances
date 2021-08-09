@@ -1,0 +1,13 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,07/01/20,Beginning Balance,85606.50,MZN,1,85606.50,BF - Deposit,BF - DEP,Beginning Balance ,Expeditions
+2,07/23/20,Amigos Tours & Shuttles,-11200.00,MZN,1,-11200.00,BF - Travel & Incidentals,BF - TRV,Transport to Maputo for four students ,Expeditions
+3,07/23/20,Comercio Azul,-75.00,MZN,1,-75.00,BF - Grocery & Other Supplies,BF - SUPP,Road food,AMT
+4,07/25/20,LivInn Guesthouse,-6000.00,MZN,1,-6000.00,BF - Travel & Incidentals,BF - TRV,One night lodging Maputo,AMT
+5,07/25/20,Ocean Basket,-4200.00,MZN,1,-4200.00,BF - Entertainment & Meals,BF- ENTML,Meal in Maputo ,AMT
+6,07/25/20,Premier Superspar,-555.00,MZN,1,-555.00,BF - Grocery & Other Supplies,BF - SUPP,Road food ,AMT
+7,07/25/20,Woolworths,-630.00,MZN,1,-630.00,BF - Grocery & Other Supplies,BF - SUPP,Road food ,AMT
+8,07/25/20,Premier Superspar,-677.00,MZN,1,-677.00,BF - Grocery & Other Supplies,BF - SUPP,Road food ,AMT
+9,07/25/20,Woolworths,-548.00,MZN,1,-548.00,BF - Grocery & Other Supplies,BF - SUPP,Road food ,AMT
+10,07/31/20,Close out July,-61721.50,MZN,1,-61721.50,BF - Deposit,BF - DEP,Close out July,AMT
+
+ 

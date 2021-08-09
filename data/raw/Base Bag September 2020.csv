@@ -1,0 +1,41 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,09/01/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+2,09/01/20,Beau Krpicak,31000.00,MZN,1,31000.00,BF - Deposit,BF - DEP,Manager salary ,Base
+3,09/01/20,Tx to Base Savings Budget,-2000.00,MZN,1,-2000.00,BF - Deposit,BF - DEP,Taxes ,Base
+4,09/01/20,Tx to Base Savings Budget,-7150.00,MZN,1,-7150.00,BF - Deposit,BF - DEP,Sev Pay September ,Base
+5,09/01/20,Gindolo,-850.00,MZN,1,-850.00,BF - Grocery & Other Supplies,BF - SUPP,Nails ,Base
+6,09/01/20,Beginning Balance,51694.00,MZN,1,51694.00,BF - Deposit,BF - DEP,Beginning Balance ,Base
+7,09/02/20,Gindolo,-550.00,MZN,1,-550.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,New door lockset chalet 3L,Base
+8,09/03/20,AMS Office,-35.00,MZN,1,-35.00,BF - Office Supplies,BF - OFSUPP,Folder ,Base
+9,09/03/20,Gindolo,-650.00,MZN,1,-650.00,BF - Grocery & Other Supplies,BF - SUPP,Screws and 100 grit sanding discs (5),Base
+10,09/03/20,INSS,-4572.00,MZN,1,-4572.00,BF - Employee Payroll,BF - EMPRL,INSS,Base
+11,09/03/20,Domingo,-500.00,MZN,1,-500.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+12,09/03/20,Somoconta,-5000.00,MZN,1,-5000.00,BF - Accounting Fees,BF - ACCT,August accounting fees ,Base
+13,09/04/20,Associação África Missions,77539.00,MZN,1,77539.00,"BF - Rent, Other Occupancy",BF - RNT,September Rent,Base
+14,09/07/20,Builders,-6380.00,MZN,1,-6380.00,BF - Grocery & Other Supplies,BF - SUPP,Light bulbs and blu52,Base
+15,09/09/20,Cater King,-2145.00,MZN,1,-2145.00,BF - Staff Development,BF - SD,uniform pants for Jose ,Base
+16,09/09/20,Cater King,-3027.00,MZN,1,-3027.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Silicone ,Base
+17,09/09/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+18,09/11/20,Gindolo,-15640.00,MZN,1,-15640.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Supplies for electricity phases project,Base
+19,09/11/20,Pedro Jose,-700.00,MZN,1,-700.00,BF - Contract Temporary Help,BF - CNT,Contract labor ,Base
+20,09/12/20,EDM,-3000.00,MZN,1,-3000.00,BF - Utilities,BF - UTL,Electricity ,Base
+21,09/15/20,EDM,-5000.00,MZN,1,-5000.00,BF - Utilities,BF - UTL,Electricity ,Base
+22,09/16/20,Gindolo,-8900.00,MZN,1,-8900.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Inverter and bulbs ,Base
+23,09/18/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+24,09/23/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+25,09/25/20,Machavenga,-1266.00,MZN,1,-1266.00,BF - Grocery & Other Supplies,BF - SUPP,Electric kettle ,Base
+26,09/26/20,Gindolo,-5355.00,MZN,1,-5355.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,"Screens, hinges, locks, phase adapters ",Base
+27,09/28/20,Tofo Trash Dump,-100.00,MZN,1,-100.00,BF - Utilities,BF - UTL,Trash Removal ,Base
+28,09/29/20,Gindolo,-100.00,MZN,1,-100.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Screws for screen frame hinges ,Base
+29,09/30/20,José Nguila Covela,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,September salary ,Base
+30,09/30/20,Alexandre Francisco Madango,-8780.00,MZN,1,-8780.00,BF - Employee Payroll,BF - EMPRL,September salary ,Base
+31,09/30/20,Manager Salary,-31000.00,MZN,1,-31000.00,BF - Employee Payroll,BF - EMPRL,Manager salary September ,Base
+32,09/30/20,Lidia Francisco Bia,-7110.00,MZN,1,-7110.00,BF - Employee Payroll,BF - EMPRL,September salary ,Base
+33,09/30/20,Gabriel Carlos,-8610.00,MZN,1,-8610.00,BF - Employee Payroll,BF - EMPRL,September salary ,Base
+34,09/30/20,EDM,-2000.00,MZN,1,-2000.00,BF - Utilities,BF - UTL,Electricity ,Base
+35,09/30/20,Gindolo,-2060.00,MZN,1,-2060.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,Light bulbs MC bathrooms and join kit,Base
+36,09/30/20,Pedro Jose,-1000.00,MZN,1,-1000.00,BF - Contract Temporary Help,BF - CNT,1 day labor ,Base
+37,09/30/20,Pedro Shop,-720.00,MZN,1,-720.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,16 gauge joins ,Base
+38,09/30/20,Close out September,-9253.00,MZN,1,-9253.00,BF - Deposit,BF - DEP,Close out September ,Base
+
+ 

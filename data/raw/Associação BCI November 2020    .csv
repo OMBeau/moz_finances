@@ -1,0 +1,5 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,11/01/20,Beginning Balance,1755.62,MZN,1,1755.62,BF - Deposit,BF - DEP,Beginning Balance ,Associcao BCI
+2,11/30/20,Close out November,-1755.62,MZN,1,-1755.62,BF - Deposit,BF - DEP,Close out November ,Associcao BCI
+
+ 

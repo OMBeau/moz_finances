@@ -1,0 +1,7 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,02/01/21,Beginning Balance,145560.00,MZN,1,145560.00,BF - Contract Temporary Help,BF - CNT,Beginning Balance ,Base Savings Budget
+2,02/13/21,Tx from Base Bag,7150.00,MZN,1,7150.00,BF - Deposit,BF - DEP,Sev Pay February ,Base Savings Budget
+3,02/13/21,Tx from Base Bag,4240.00,MZN,1,4240.00,BF - Deposit,BF - DEP,Taxes ,Base Savings Budget
+4,02/28/21,Close out February,-156950.00,MZN,1,-156950.00,BF - Deposit,BF - DEP,Close out February ,Base Savings Budget
+
+ 

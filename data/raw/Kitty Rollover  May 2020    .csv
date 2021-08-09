@@ -1,0 +1,15 @@
+﻿Receipt Index,Date,Name,Price,Currency,Exchange Rate,Price (Exchanged),Category Name,Category Code,Comment,Payment Method
+1,05/01/20,Beginning Balance,4869.55,MZN,1,4869.55,BF - Deposit,BF - DEP,Beginning Balance ,Kitty Rollover
+2,05/03/20,Tx from Kitty,4246.00,MZN,1,4246.00,BF - Deposit,BF - DEP,Remaining balance for week,Kitty
+3,05/06/20,AMT Laundry,1200.00,MZN,1,1200.00,BF - Deposit,BF - DEP,April Laundry Payments,Kitty Rollover
+4,05/06/20,Comercio Azul,-945.00,MZN,1,-945.00,BF - Grocery & Other Supplies,BF - SUPP,Soy sauce ,Kitty Rollover
+5,05/06/20,Machavenga,-1447.00,MZN,1,-1447.00,BF - Grocery & Other Supplies,BF - SUPP,"TP,  Spices, Salt, Fish Sauce",Kitty Rollover
+6,05/11/20,Tx from Kitty,2542.00,MZN,1,2542.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+7,05/18/20,Tx from Kitty,848.00,MZN,1,848.00,BF - Deposit,BF - DEP,Remaining balance from last week ,Kitty
+8,05/24/20,Tx from Kitty,877.00,MZN,1,877.00,BF - Deposit,BF - DEP,Remaining balance for week ,Kitty Rollover
+9,05/29/20,Tx to Expeditions,-1093.00,MZN,1,-1093.00,BF - Grocery & Other Supplies,BF - SUPP,"Plastic bowls, cutlery, napkins, straws and ice cream- reimbursement to Amt grad dinner ",Kitty Rollover
+10,05/31/20,Tx from Kitty,336.00,MZN,1,336.00,BF - Deposit,BF - DEP,Remaining balance ,Kitty
+11,05/31/20,AMT Laundry,800.00,MZN,1,800.00,BF - Deposit,BF - DEP,AMT Laundry May,Kitty Rollover
+12,05/31/20,Close out May,-12233.55,MZN,1,-12233.55,BF - Deposit,BF - DEP,Close out May ,Kitty Rollover
+
+ 

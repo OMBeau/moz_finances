@@ -25,35 +25,63 @@ raw_fld = os.path.join(data_fld, "raw")
 clean_fld = os.path.join(data_fld, "clean")
 
 
-def calculator(expansion=None):
+def calculator(expansion=st):
 
-    container = expansion.beta_container() if expansion else st.beta_container()
+    container = expansion.beta_container()
 
-    cash_types = [1000, 500, 200, 100, 50, 20]
-    coin_types = [10, 5, 2, 1, 0.5, 0.05, 0.01]
-    titles = ["Cash", "Coins"]
+    calc_dict = {
+        "Cash": [1000, 500, 200, 100, 50, 20],
+        "Coins": [10, 5, 2, 1, 0.5, 0.05, 0.01],
+    }
 
     total = 0
 
-    for t, c_types in enumerate([cash_types, coin_types]):
-
+    for k, v in calc_dict.items():
         titles_with_amounts = container.empty()
-
-        cols = [*container.beta_columns(len(c_types))]
+        columns = [*container.beta_columns(len(v))]
         t_amt = 0
 
-        for i, c in enumerate(cols):
-            with c:
-                x = st.text_input(label=str(c_types[i]))
+        for i, col in enumerate(columns):
+            base_amt = v[i]
+
+            with col:
+                x = st.text_input(label=f"{base_amt:,}")
+
                 if x.isdigit():
-                    calc = int(x) * c_types[i]
+                    calc = int(x) * base_amt
                     st.text(f"{calc:,}")
                     t_amt += calc
                     total += calc
 
-        titles_with_amounts.header(f"{titles[t]}: {t_amt:,}")
+        titles_with_amounts.header(f"{k}: {t_amt:,}")
 
-    container.header(f"Total: {round(total,2):,}")
+    container.header(f"Total: {round(total, 2):,}")
+
+    # cash_types = [1000, 500, 200, 100, 50, 20]
+    # coin_types = [10, 5, 2, 1, 0.5, 0.05, 0.01]
+    # titles = ["Cash", "Coins"]
+
+    # total = 0
+
+    # for t, c_types in enumerate([cash_types, coin_types]):
+
+    #     titles_with_amounts = container.empty()
+
+    #     cols = [*container.beta_columns(len(c_types))]
+    #     t_amt = 0
+
+    #     for i, c in enumerate(cols):
+    #         with c:
+    #             x = st.text_input(label=str(c_types[i]))
+    #             if x.isdigit():
+    #                 calc = int(x) * c_types[i]
+    #                 st.text(f"{calc:,}")
+    #                 t_amt += calc
+    #                 total += calc
+
+    #     titles_with_amounts.header(f"{titles[t]}: {t_amt:,}")
+
+    # container.header(f"Total: {round(total,2):,}")
 
 
 @st.cache
@@ -320,9 +348,9 @@ def _get_df_date_range(dff, agg="Months", range_type="Range"):
     return dff[date_filter]
 
 
-def date_filter(dff, expansion=None):
+def date_filter(dff, expansion=st):
 
-    container = expansion.beta_container() if expansion else st.beta_container()
+    container = expansion.beta_container()
 
     # Date selectboxes and slider
     date_agg_col, range_or_single_col, slider_col = container.beta_columns((1, 1, 6))
@@ -348,9 +376,9 @@ def comment_filter(dff):
     return dff
 
 
-def price_filter(dff, expansion=None):
+def price_filter(dff, expansion=st):
 
-    container = expansion.beta_container() if expansion else st.beta_container()
+    container = expansion.beta_container()
 
     price_type, p_min, p_max, price_slider = container.beta_columns((1, 1, 1, 5))
 
@@ -376,13 +404,11 @@ def price_filter(dff, expansion=None):
     return dff
 
 
-def columns_to_show(dff, expansion=None):
-    if expansion:
-        container = expansion.beta_container()
-        label = ""
-    else:
-        container = st.beta_container()
-        label = "Show Columns"
+def columns_to_show(dff, expansion=st):
+
+    container = expansion.beta_container()
+
+    label = "Show Columns" if expansion == st else ""
 
     show_columns, reset_columns = container.beta_columns((7, 1))
 
@@ -687,9 +713,9 @@ def _get_receipt_pic(pdf, receipt_index):
     return _get_pic(pic_filepath)
 
 
-def view_receipts(dff, picked_df, expansion=None):
+def view_receipts(dff, picked_df, expansion=st):
 
-    container = expansion.beta_container() if expansion else st.beta_container()
+    container = expansion.beta_container()
 
     main_left, main_middle, main_right = container.beta_columns([1, 1, 9])
 
@@ -738,9 +764,9 @@ def view_receipts(dff, picked_df, expansion=None):
         container.write("Receipt Does Not Exist")
 
 
-def view_receipts2(dff, picked_df, expansion=None):
+def view_receipts2(dff, picked_df, expansion=st):
 
-    container = expansion.beta_container() if expansion else st.beta_container()
+    container = expansion.beta_container()
 
     main_left, main_middle, main_right = container.beta_columns([1, 1, 9])
 

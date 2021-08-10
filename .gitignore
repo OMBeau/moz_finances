@@ -1,7 +1,6 @@
-data/clean
-data/grouped
-data/img
-data/tmp
+# exclude data folder exepct for raw.
+data/*
+!data/raw
 
 .DS_Store
 

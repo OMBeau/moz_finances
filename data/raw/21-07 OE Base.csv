@@ -1,0 +1,49 @@
+﻿Receipt Index,Date,Name,Comment,Currency,Price,Category Name,Category Code,Exchange Rate,Price (Exchanged)
+1,07/01/21,Beginning Balance,Beginning Balance,MZN,9236.00,BF - Deposit,BF - DEP,1,9236.00
+2,07/01/21,Beau Krpicak,Manager Salary for July,MZN,31000.00,BF - Deposit,BF - DEP,1,31000.00
+3,07/01/21,AAM Rent,AAM Base Fees,MZN,106550.00,BF - Deposit,BF - DEP,1,106550.00
+4,07/02/21,Tx to Base Savings Budget,Land/Activity tax,MZN,-4240.00,BF - Deposit,BF - DEP,1,-4240.00
+5,07/02/21,Tx to Base Savings Budget,Sev pay and 13th Month,MZN,-7150.00,BF - Deposit,BF - DEP,1,-7150.00
+6,07/02/21,Neula Invest e Serviços,4x 9kg Propane,MZN,-3800.00,BF - Utilities,BF - UTL,1,-3800.00
+7,07/02/21,EDM EP,Electricity,MZN,-2000.00,BF - Utilities,BF - UTL,1,-2000.00
+8,07/02/21,INSS,INSS ,MZN,-4318.00,BF - Employee Payroll,BF - EMPRL,1,-4318.00
+9,07/02/21,ISPC,ISPC,MZN,-5785.50,BF - Taxes,BF - TAX,1,-5785.50
+10,07/02/21,Somoconta LDA,Accounting fees for June,MZN,-5000.00,BF - Accounting Fees,BF - ACCT,1,-5000.00
+11,07/05/21,Gindolo,"12x cable clamps, 6x cable tensioners",MZN,-1560.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-1560.00
+12,07/05/21,Paulo,Trash collection,MZN,-700.00,BF - Utilities,BF - UTL,1,-700.00
+13,07/05/21,EDM EP,Electricity,MZN,-4000.00,BF - Utilities,BF - UTL,1,-4000.00
+14,07/07/21,IRPS,1412.50x19 months back pay for manager salary plus late fees,MZN,-25212.00,BF - Taxes,BF - TAX,1,-25212.00
+15,07/08/21,Construa,"Garden lasher, screws,eye bolt screws,joins",MZN,-3968.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-3968.00
+16,07/09/21,Gindolo,Brass arm?,MZN,-350.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-350.00
+17,07/12/21,Gindolo,2x5L imbulia varnish & 5L Turpentine for MC deck,MZN,-9170.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-9170.00
+18,07/13/21,EDM,Electricity,MZN,-2000.00,BF - Utilities,BF - UTL,1,-2000.00
+19,07/15/21,Builders Warehouse Maputo,Pool sand filter lid replacement,MZN,-2900.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-2900.00
+20,07/17/21,Tx from Base Savings Spending,Tx from Base Savings Spending to supplement,MZN,8880.00,BF - Deposit,BF - DEP,1,8880.00
+21,07/19/21,IRPS,Final payment of 1412.50x19 months back pay for manager salary plus late fees: Total 31012,MZN,-5800.00,BF - Taxes,BF - TAX,1,-5800.00
+22,07/20/21,AMG,Diesel for generator,MZN,-2917.00,BF - Utilities,BF - UTL,1,-2917.00
+23,07/21/21,Tx from Base Savings Spending,Needed for remaining projects,MZN,10000.00,BF - Deposit,BF - DEP,1,10000.00
+24,07/21/21,Gindolo,"3x 40kg bags of pool sand, 1x terminator",MZN,-3410.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-3410.00
+25,07/21/21,EDM,Electricity,MZN,-2000.00,BF - Utilities,BF - UTL,1,-2000.00
+26,07/21/21,Construa,"Screws, 5x belt sanders, 4x 2by4s @4.8meters",MZN,-4940.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-4940.00
+27,07/22/21,Tx from Base Savings Spending,Tx from base savings to finish cottage ceiling project,MZN,20000.00,BF - Deposit,BF - DEP,1,20000.00
+28,07/23/21,AMG,Diesel for Generator,MZN,-1528.00,BF - Utilities,BF - UTL,1,-1528.00
+29,07/26/21,Construa,2xScrews for cottage ceiling project,MZN,-384.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-384.00
+30,07/26/21,Construa,9x plywood planks for cottage ceiling project,MZN,-10080.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-10080.00
+31,07/27/21,Paulo,Trash pick up,MZN,-700.00,BF - Utilities,BF - UTL,1,-700.00
+32,07/27/21,Paulo,Sale of rolled garage door,MZN,700.00,BF - Building Supplies,BF - BLDG,1,700.00
+33,07/27/21,Metal guys,Sale of various metal on base,MZN,1300.00,BF - Building Supplies,BF - BLDG,1,1300.00
+34,07/26/21,Gindolo,"1/2 in. Valve, Teflon tape, half inch union, To brass gas nipples, five tightening joins",MZN,-1160.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-1160.00
+35,07/27/21,Construa,"Silicone, galvanized cap for oven",MZN,-536.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-536.00
+36,07/27/21,Gindolo,2 pipe connectors for the small pool,MZN,-960.00,BF - Repairs & Maintenance (Bldg),BF - BLDGREP,1,-960.00
+37,07/29/21,Catarina,2 days cleaning labor,MZN,-500.00,BF - Contract Temporary Help,BF - CNT,1,-500.00
+38,07/29/21,Lidia Niece,2 days cleaning labor,MZN,-500.00,BF - Contract Temporary Help,BF - CNT,1,-500.00
+39,07/29/21,Anita,2 days cleaning labor,MZN,-500.00,BF - Contract Temporary Help,BF - CNT,1,-500.00
+40,07/29/21,Helder,Fix exp fridge,MZN,-1500.00,BF - Contract Temporary Help,BF - CNT,1,-1500.00
+41,07/31/21,Lidia Bia,Employee Salary for July,MZN,-7110.00,BF - Employee Payroll,BF - EMPRL,1,-7110.00
+42,07/31/21,Gabriel Carlos,Employee Salary for July,MZN,-8610.00,BF - Employee Payroll,BF - EMPRL,1,-8610.00
+43,07/31/21,Jose Covela,Employee Salary for July,MZN,-8780.00,BF - Employee Payroll,BF - EMPRL,1,-8780.00
+44,07/31/21,Alexandre Mandango,Employee Salary for July,MZN,-8780.00,BF - Employee Payroll,BF - EMPRL,1,-8780.00
+45,07/31/21,Manager Salary,Manager Salary,MZN,-31000.00,BF - Employee Payroll,BF - EMPRL,1,-31000.00
+46,07/31/21,Closing Balance,Closing Balance,MZN,-3817.50,BF - Deposit,BF - DEP,1,-3817.50
+
+ 

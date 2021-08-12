@@ -1,0 +1,8 @@
+﻿Receipt Index,Date,Name,Comment,Currency,Price,Category Name,Category Code,Exchange Rate,Price (Exchanged)
+1,07/01/21,Beginning Balance,Beginning Balance,MZN,58880.82,BF - Deposit,BF - DEP,1,58880.82
+2,07/17/21,Tx to Base,Tx to base to subsidize ,MZN,-8880.00,BF - Deposit,BF - DEP,1,-8880.00
+3,07/21/21,Tx to Base,Tx to Base for projects,MZN,-10000.00,BF - Deposit,BF - DEP,1,-10000.00
+4,07/22/21,Tx to Base,Tx to Base for cottage ceiling,MZN,-20000.00,BF - Deposit,BF - DEP,1,-20000.00
+5,07/31/21,Closing Balance,Closing Balance,MZN,-20000.82,BF - Deposit,BF - DEP,1,-20000.82
+
+ 

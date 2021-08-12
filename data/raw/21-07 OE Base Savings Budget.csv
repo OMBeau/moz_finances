@@ -1,0 +1,8 @@
+﻿Receipt Index,Date,Name,Comment,Currency,Price,Category Name,Category Code,Exchange Rate,Price (Exchanged)
+1,07/01/21,Beginning Balance,Beginning Balance,MZN,178810.00,BF - Deposit,BF - DEP,1,178810.00
+2,07/02/21,Tx from OE Base,Sev pay & 13th month,MZN,7150.00,BF - Deposit,BF - DEP,1,7150.00
+3,07/02/21,Tx from OE Base,Land/Activity Tax,MZN,4240.00,BF - Deposit,BF - DEP,1,4240.00
+4,07/19/21,Municipal,Activity tax,MZN,-3400.00,BF - Taxes,BF - TAX,1,-3400.00
+5,07/31/21,Closing Balance,Closing Balance,MZN,-186800.00,BF - Deposit,BF - DEP,1,-186800.00
+
+ 

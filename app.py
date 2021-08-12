@@ -1,6 +1,3 @@
-# from altair.vegalite.v4.schema.channels import Opacity
-# from numpy import empty
-from numpy import diff
 import streamlit as st
 import altair as alt
 import base64
@@ -23,11 +20,21 @@ from dateutil import parser
 data_fld = "data"
 raw_fld = os.path.join(data_fld, "raw")
 clean_fld = os.path.join(data_fld, "clean")
+filter_selection = [
+    "",
+    "Date",
+    "Price",
+    "Vendor",
+    "Category",
+    "Account",
+    "Comment",
+    "File",
+]
 
 
 def calculator(expansion=st):
 
-    container = expansion.beta_container()
+    container = expansion.container()
 
     calc_dict = {
         "Cash": [1000, 500, 200, 100, 50, 20],
@@ -38,7 +45,7 @@ def calculator(expansion=st):
 
     for k, v in calc_dict.items():
         titles_with_amounts = container.empty()
-        columns = [*container.beta_columns(len(v))]
+        columns = [*container.columns(len(v))]
         t_amt = 0
 
         for i, col in enumerate(columns):
@@ -56,32 +63,6 @@ def calculator(expansion=st):
         titles_with_amounts.header(f"{k}: {t_amt:,}")
 
     container.header(f"Total: {round(total, 2):,}")
-
-    # cash_types = [1000, 500, 200, 100, 50, 20]
-    # coin_types = [10, 5, 2, 1, 0.5, 0.05, 0.01]
-    # titles = ["Cash", "Coins"]
-
-    # total = 0
-
-    # for t, c_types in enumerate([cash_types, coin_types]):
-
-    #     titles_with_amounts = container.empty()
-
-    #     cols = [*container.beta_columns(len(c_types))]
-    #     t_amt = 0
-
-    #     for i, c in enumerate(cols):
-    #         with c:
-    #             x = st.text_input(label=str(c_types[i]))
-    #             if x.isdigit():
-    #                 calc = int(x) * c_types[i]
-    #                 st.text(f"{calc:,}")
-    #                 t_amt += calc
-    #                 total += calc
-
-    #     titles_with_amounts.header(f"{titles[t]}: {t_amt:,}")
-
-    # container.header(f"Total: {round(total,2):,}")
 
 
 @st.cache
@@ -108,7 +89,7 @@ def prep_files():  # sourcery no-metrics
     acct_keywords = list(acct_keywords)
 
     for f in sorted(os.listdir(clean_fld)):
-        if f == ".ipynb_checkpoints":
+        if f.startswith("."):
             continue
         # prep
         split = f.split(".")
@@ -348,69 +329,176 @@ def _get_df_date_range(dff, agg="Months", range_type="Range"):
     return dff[date_filter]
 
 
-def date_filter(dff, expansion=st):
+def filter_selected(col, current):
+    remove_list = st.session_state.filters_selected.copy()
+    remove_list.remove(current)
+    filter_selection_remove_used = [x for x in filter_selection if x not in remove_list]
+    f = col.selectbox(
+        "",
+        filter_selection_remove_used,
+        index=filter_selection_remove_used.index(current),
+    )
 
-    container = expansion.beta_container()
+    current_index = st.session_state.filters_selected.index(current)
+    if f == "":
+        st.session_state.filters_selected.pop(current_index)
+        st.experimental_rerun()
+    elif f != current:
+        st.session_state.filters_selected.pop(current_index)
+        st.session_state.filters_selected.insert(current_index, f)
+        st.experimental_rerun()
+
+
+def date_filter(dff, expansion=st):
+    # TODO Can take out "with" statement
+    container = expansion.container()
 
     # Date selectboxes and slider
-    date_agg_col, range_or_single_col, slider_col = container.beta_columns((1, 1, 6))
-    with date_agg_col:
-        date_agg = st.selectbox("Dates", options=["Days", "Months"])
+    f, date_agg_col, range_or_single_col, slider_col = container.columns((1, 1, 1, 5))
+    filter_selected(f, "Date")
 
-    with range_or_single_col:
-        range_or_single = st.selectbox("Range or Single", options=["Range", "Single"])
+    date_agg = date_agg_col.selectbox("Dates", options=["Days", "Months"])
+    range_or_single = range_or_single_col.selectbox(
+        "Range or Single", options=["Range", "Single"]
+    )
 
     with slider_col:
         df = _get_df_date_range(dff, agg=date_agg, range_type=range_or_single)
-    return date_agg, range_or_single, df
+
+    return df, date_agg, range_or_single
 
 
-def comment_filter(dff):
-    # Comment Search
-    notes_f = st.sidebar.text_input("Comment Search")
+def is_digit(x):
 
-    # st.sidebar.write(notes_f)
-    if notes_f:
-        notes_filter = dff["Comment"].str.contains(notes_f, case=False, na=False)
-        dff = dff[notes_filter]
-    return dff
+    try:
+        int(x)
+        return True
+    except ValueError:
+        return False
 
 
 def price_filter(dff, expansion=st):
 
-    container = expansion.beta_container()
+    container = expansion.container()
 
-    price_type, p_min, p_max, price_slider = container.beta_columns((1, 1, 1, 5))
+    f, p_min, p_max, price_slider = container.columns((1, 1, 1, 5))
+    filter_selected(f, "Price")
 
-    price_filter = price_type.selectbox(
-        "Price Filter", options=["Income", "Expense", "Range"]
+    price_min = int(round(dff["Price"].min(), 0) - 1)
+    price_max = int(round(dff["Price"].max(), 0) + 1)
+    p_min_amt = p_min.text_input("Price Min", value=f"{price_min:,}")
+    p_max_amt = p_max.text_input("Price Max", value=f"{price_max:,}")
+
+    value_min = int(p_min_amt) if is_digit(p_min_amt) else price_min
+    value_max = int(p_max_amt) if is_digit(p_max_amt) else price_max
+
+    # slider cant format numbers with comma, but select_slider converts all to strings.
+    price_range = price_slider.slider(
+        "Price Range",
+        min_value=value_min,
+        max_value=value_max,
+        value=(value_min, value_max),
+        step=1,
+        format="%d",  # %d %e %f %g %i
     )
-    if price_filter == "Range":
-        price_min = int(round(dff["Price"].min(), 0) - 1)
-        price_max = int(round(dff["Price"].max(), 0) + 1)
-        price_range = price_slider.slider(
-            "Price Range",
-            min_value=price_min,
-            max_value=price_max,
-            value=(price_min, price_max),
-            step=10,
-            # format=f"{x:,.2f}"
-            # format_func=date_format_func,
-        )
-        price_f = dff["Price"].between(*price_range)
 
-        dff = dff[price_f]
+    price_f = dff["Price"].between(*price_range)
+
+    dff = dff[price_f]
 
     return dff
 
 
+def comment_filter(dff, expansion=st):
+
+    container = expansion.container()
+
+    f, comments = container.columns((1, 7))
+    filter_selected(f, "Comment")
+
+    comments_string = comments.text_input("Comment Search")
+
+    if comments_string:
+        comments_f = dff["Comment"].str.contains(comments_string, case=False, na=False)
+        dff = dff[comments_f]
+    return dff
+
+
+def multiselect_filters(dff, filter_name, col_name, expansion=st):
+    container = expansion.container()
+
+    f, filter_chosen = container.columns((1, 7))
+    filter_selected(f, filter_name)
+
+    filter_options = sorted(dff[col_name].unique())
+    filters_selected = filter_chosen.multiselect(
+        label=f"{col_name} ({len(filter_options)})", options=filter_options
+    )
+    if filters_selected:
+        dff = dff[dff[col_name].isin(filters_selected)]
+    return dff
+
+
+def filters(df, ex_filters):
+
+    if "filters_selected" not in st.session_state:
+        st.session_state.filters_selected = []
+
+    date_agg = "Days"
+    range_or_single = "Range"
+
+    mutliselect_filters = {
+        "Vendor": "Name",
+        "Category": "Category Name",
+        "File": "filename",
+        "Account": "fileacct",
+    }
+
+    for filter_chosen in st.session_state.filters_selected:
+
+        if filter_chosen == "Comment":
+            df = comment_filter(df, expansion=ex_filters)
+
+        elif filter_chosen == "Date":
+            df, date_agg, range_or_single = date_filter(df, expansion=ex_filters)
+
+        elif filter_chosen == "Price":
+            df = price_filter(df, expansion=ex_filters)
+
+        elif filter_chosen in mutliselect_filters:
+            df = multiselect_filters(
+                df,
+                filter_chosen,
+                mutliselect_filters[filter_chosen],
+                expansion=ex_filters,
+            )
+
+    add_filter, leave_blank = ex_filters.columns([1, 7])
+
+    filters_remove_selected = [
+        x for x in filter_selection if x not in st.session_state.filters_selected
+    ]
+
+    filter_add = add_filter.selectbox(
+        "Add",
+        filters_remove_selected,
+        index=filters_remove_selected.index(""),
+    )
+
+    if filter_add != "":
+        st.session_state.filters_selected.append(filter_add)
+        st.experimental_rerun()
+
+    return df, date_agg, range_or_single
+
+
 def columns_to_show(dff, expansion=st):
 
-    container = expansion.beta_container()
+    container = expansion.container()
 
     label = "Show Columns" if expansion == st else ""
 
-    show_columns, reset_columns = container.beta_columns((7, 1))
+    show_columns, reset_columns = container.columns((7, 1))
 
     cols = list(dff.columns)
 
@@ -437,17 +525,6 @@ def see_receipts(dff):
         anchor_link("linkto_receipt", "Link to Receipt")
 
     return receipt_id
-
-
-def vendor_selection(dff):
-    # Vendor Seleciton
-    names = sorted(dff["Name"].unique())
-    names_selected = st.sidebar.multiselect(
-        label=f"Vendor Selection ({len(names)})", options=names
-    )
-    if names_selected:
-        dff = dff[dff["Name"].isin(names_selected)]
-    return dff
 
 
 @st.cache
@@ -715,9 +792,9 @@ def _get_receipt_pic(pdf, receipt_index):
 
 def view_receipts(dff, picked_df, expansion=st):
 
-    container = expansion.beta_container()
+    container = expansion.container()
 
-    main_left, main_middle, main_right = container.beta_columns([1, 1, 9])
+    main_left, main_middle, main_right = container.columns([1, 1, 9])
 
     all_or_picked = main_left.radio("Pool From", ["All", "Picked"])
 
@@ -766,9 +843,9 @@ def view_receipts(dff, picked_df, expansion=st):
 
 def view_receipts2(dff, picked_df, expansion=st):
 
-    container = expansion.beta_container()
+    container = expansion.container()
 
-    main_left, main_middle, main_right = container.beta_columns([1, 1, 9])
+    main_left, main_middle, main_right = container.columns([1, 1, 9])
 
     all_or_picked = main_left.radio("Pool From", ["All", "Picked"])
 
@@ -883,26 +960,21 @@ def anchor_point(name):
 
 def main_with_expansions():
 
-    expansion_calculator = st.beta_expander("Calculator")
+    expansion_calculator = st.expander("Calculator")
     calculator(expansion=expansion_calculator)
 
     prep_files()
 
     df_main = get_df()
 
-    ex_filters = st.beta_expander("Filters", expanded=True)
-    date_agg, range_or_single, df = date_filter(df_main, expansion=ex_filters)
-    df = price_filter(df, expansion=ex_filters)
+    ex_filters = st.expander("Filters", expanded=True)
+    df, date_agg, range_or_single = filters(df_main, ex_filters)
 
-    ex_graph = st.beta_expander("Graph", expanded=True)
-
-    df = vendor_selection(df)
-
-    df = comment_filter(df)
+    ex_graph = st.expander("Graph", expanded=True)
 
     graph_df = get_df_running_totals(df)  # TODO
 
-    ex_columns = st.beta_expander("Columns")
+    ex_columns = st.expander("Columns")
     show_cols = columns_to_show(df_main, expansion=ex_columns)
 
     # Accounts found in main df
@@ -935,115 +1007,13 @@ def main_with_expansions():
     fig = chart_altair_hist(picked_df, agg=date_agg, range_type=range_or_single)
     ex_graph.altair_chart(fig, use_container_width=True)
 
-    ex_receipts = st.beta_expander("See Receipts")
+    ex_receipts = st.expander("See Receipts")
     view_receipts2(df_main, picked_df, expansion=ex_receipts)
-
-
-def main():
-
-    if st.sidebar.checkbox("Show Calculator"):
-        calculator()
-
-    prep_files()
-
-    df_main = get_df()
-
-    receipt_id = see_receipts(df_main)
-    st.sidebar.markdown("""---""")
-
-    date_agg, range_or_single, df = date_filter(df_main)
-
-    fig_slot = st.empty()
-
-    df = vendor_selection(df)
-
-    df = comment_filter(df)
-
-    graph_df = get_df_running_totals(df)
-
-    # st.write(df_main.columns())
-
-    expander = st.beta_expander("Filters")
-    container = expander.beta_container()
-
-    cols = list(df_main.columns)
-
-    if "filter_cols" not in st.session_state:
-        st.session_state.filter_cols = 0
-
-    if expander.button("Reset"):
-        st.session_state.filter_cols += 1
-
-    show_cols = container.multiselect(
-        "Show Columns",
-        options=cols,
-        default=cols,
-        key=str(st.session_state.filter_cols),
-    )
-
-    # if reset_cols:
-    #     show_cols = container.multiselect(
-    #         "Show Columns", options=cols, default=cols, key=1
-    #     )
-    # else:
-    #     show_cols = container.multiselect(
-    #         "Show Columns", options=cols, default=cols, key=2
-    #     )
-    # chart(graph_df)
-
-    # Accounts found in main df
-    accounts = sorted(df["fileacct"].unique())
-    picked = []
-    for i in accounts:
-        acct_rt = graph_df[graph_df["fileacct"] == i]["Price"].sum()
-        if st.sidebar.checkbox(f"{i} ({acct_rt:,.2f})"):
-            picked.append(i)
-
-    picked_df = df[df["fileacct"].isin(picked)].sort_values(
-        by=["Date", "Receipt Index"]
-    )
-    if picked:
-        st.title("Picked")
-        st.dataframe(picked_df)
-
-    try:
-        rt = graph_df["Running Total"].iloc[-1]
-    except:
-        rt = 0
-
-    header = f"RT: All ({rt:,.2f})"
-    st.header(header)
-    st.dataframe(graph_df[show_cols])
-
-    # filtered for graph
-    picked_df = graph_df[graph_df["fileacct"].isin(picked)] if picked else graph_df
-    fig = chart_altair_hist(picked_df, agg=date_agg, range_type=range_or_single)
-    fig_slot.altair_chart(fig, use_container_width=True)
-    # fig_slot2.altair_chart(fig2, use_container_width=True)
-
-    # split_df_into_accounts(graph_df, picked)
-
-    # Hidden Div to Anchor Receipt location
-    anchor_point("linkto_receipt")
-
-    if receipt_id:
-        st.subheader(f"Reciept ID: {receipt_id}")
-        st.header(f"Reciept ID: {receipt_id}")
-        row = df_main.iloc[receipt_id]
-        filename = row["filename"]
-        receipt_index = row["Receipt Index"]
-        st.table(df_main.iloc[receipt_id : receipt_id + 1])
-
-        image = _get_receipt_pic(filename + ".pdf", receipt_index)
-        if image:
-            st.image(image, use_column_width=True)
-        else:
-            st.write("Receipt Does Not Exist")
 
 
 if __name__ == "__main__":
     st.set_page_config(
-        page_title="Mozi Finances", layout="wide", initial_sidebar_state="expanded"
+        page_title="Mozi Finances", layout="wide", initial_sidebar_state="collapsed"
     )
 
     st.title("Mozi Finances")
@@ -1052,5 +1022,5 @@ if __name__ == "__main__":
 
     if use_expansions:
         main_with_expansions()
-    else:
-        main()
+    # else:
+    #     main()

@@ -135,7 +135,7 @@ def prep_files():  # sourcery no-metrics
                 continue
 
             # Small edits.
-            if w in ["Associac?a?o", "Associação"]:
+            if w in ["Associac?a?o", "Associação", "Associacao"]:
                 w = "AAM"
 
             if w == "Saving":

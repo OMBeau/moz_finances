@@ -330,6 +330,32 @@ def _get_df_date_range(dff, agg="Months", range_type="Range"):
 
 
 def filter_selected(col, current):
+    # Preferable
+    # All options remain for filters, but if a used filter is selected,
+    # first removes previous position.
+    f = col.selectbox(
+        "",
+        filter_selection,
+        index=filter_selection.index(current),
+    )
+
+    current_index = st.session_state.filters_selected.index(current)
+    if f == "":
+        st.session_state.filters_selected.pop(current_index)
+        st.experimental_rerun()
+
+    elif f != current:
+        st.session_state.filters_selected.pop(current_index)
+        while f in st.session_state.filters_selected:
+            st.session_state.filters_selected.remove(f)
+        st.session_state.filters_selected.insert(current_index, f)
+        st.experimental_rerun()
+
+
+def filter_selected2(col, current):
+    # Less preferable
+    # Removes used options from filters.
+    # Must use "" option to relieve availability to use again.
     remove_list = st.session_state.filters_selected.copy()
     remove_list.remove(current)
     filter_selection_remove_used = [x for x in filter_selection if x not in remove_list]
@@ -350,7 +376,7 @@ def filter_selected(col, current):
 
 
 def date_filter(dff, expansion=st):
-    # TODO Can take out "with" statement
+
     container = expansion.container()
 
     # Date selectboxes and slider
@@ -368,8 +394,25 @@ def date_filter(dff, expansion=st):
     return df, date_agg, range_or_single
 
 
-def is_digit(x):
+def date_filter_on_graph(dff, expansion=st):
+    container = expansion.container()
 
+    # Date selectboxes and slider
+    date_agg_col, range_or_single_col, slider_col = container.columns((1, 1, 6))
+
+    date_agg = date_agg_col.selectbox("Dates", options=["Days", "Months"])
+    range_or_single = range_or_single_col.selectbox(
+        "Range or Single", options=["Range", "Single"]
+    )
+
+    with slider_col:
+        df = _get_df_date_range(dff, agg=date_agg, range_type=range_or_single)
+
+    return df, date_agg, range_or_single
+
+
+def _is_digit(x):
+    # can validate negative digits unlike builtin x.isdigit()
     try:
         int(x)
         return True
@@ -389,8 +432,8 @@ def price_filter(dff, expansion=st):
     p_min_amt = p_min.text_input("Price Min", value=f"{price_min:,}")
     p_max_amt = p_max.text_input("Price Max", value=f"{price_max:,}")
 
-    value_min = int(p_min_amt) if is_digit(p_min_amt) else price_min
-    value_max = int(p_max_amt) if is_digit(p_max_amt) else price_max
+    value_min = int(p_min_amt) if _is_digit(p_min_amt) else price_min
+    value_max = int(p_max_amt) if _is_digit(p_max_amt) else price_max
 
     # slider cant format numbers with comma, but select_slider converts all to strings.
     price_range = price_slider.slider(
@@ -439,7 +482,9 @@ def multiselect_filters(dff, filter_name, col_name, expansion=st):
     return dff
 
 
-def filters(df, ex_filters):
+def filters(df, expansion=st):
+
+    container = expansion.container()
 
     if "filters_selected" not in st.session_state:
         st.session_state.filters_selected = []
@@ -457,30 +502,30 @@ def filters(df, ex_filters):
     for filter_chosen in st.session_state.filters_selected:
 
         if filter_chosen == "Comment":
-            df = comment_filter(df, expansion=ex_filters)
+            df = comment_filter(df, expansion=container)
 
         elif filter_chosen == "Date":
-            df, date_agg, range_or_single = date_filter(df, expansion=ex_filters)
+            df, date_agg, range_or_single = date_filter(df, expansion=container)
 
         elif filter_chosen == "Price":
-            df = price_filter(df, expansion=ex_filters)
+            df = price_filter(df, expansion=container)
 
         elif filter_chosen in mutliselect_filters:
             df = multiselect_filters(
                 df,
-                filter_chosen,
-                mutliselect_filters[filter_chosen],
-                expansion=ex_filters,
+                filter_name=filter_chosen,
+                col_name=mutliselect_filters[filter_chosen],
+                expansion=container,
             )
 
-    add_filter, leave_blank = ex_filters.columns([1, 7])
+    add_filter, leave_blank = container.columns([1, 7])
 
     filters_remove_selected = [
         x for x in filter_selection if x not in st.session_state.filters_selected
     ]
 
     filter_add = add_filter.selectbox(
-        "Add",
+        "Add Filter",
         filters_remove_selected,
         index=filters_remove_selected.index(""),
     )
@@ -801,101 +846,26 @@ def view_receipts(dff, picked_df, expansion=st):
     chosen_df = dff if all_or_picked == "All" else picked_df
     index_list = chosen_df.index.to_list()
 
-    rec_id = main_middle.empty()
+    if "receipt_position" not in st.session_state:
+        st.session_state.receipt_position = 0
 
-    if "receipt_number" not in st.session_state:  # Initilaize State of receipt_number
-        st.session_state.receipt_number = 0
-        position = 0
-
-    else:
-        try:
-            position = index_list.index(st.session_state.receipt_number)
-        except ValueError:
-            position = 0
-
-    if main_left.button("Previous"):
-        position -= 1
-
-    # if len(dff.loc[[position + 1]]) != 0:
-    # main_right.write(len(dff.loc[[position]]))
-    main_right.write(position + 1)
-    main_right.write(len(index_list) - 1)
-    main_right.write(position + 1 < (len(index_list) - 1))
-    if (position + 1) < (len(index_list) - 1):
-        if main_middle.button("Next"):
-            position += 1
-
-    receipt_id = rec_id.selectbox("", index_list, index=position)
-
-    st.session_state.receipt_number = receipt_id
-    main_right.table(dff.iloc[[receipt_id]])
-
-    row = dff.iloc[receipt_id]
-    filename = row["filename"]
-    receipt_index = row["Receipt Index"]
-
-    image = _get_receipt_pic(filename + ".pdf", receipt_index)
-    if image:
-        container.image(image, use_column_width=True)
-    else:
-        container.write("Receipt Does Not Exist")
-
-
-def view_receipts2(dff, picked_df, expansion=st):
-
-    container = expansion.container()
-
-    main_left, main_middle, main_right = container.columns([1, 1, 9])
-
-    all_or_picked = main_left.radio("Pool From", ["All", "Picked"])
-
-    chosen_df = dff if all_or_picked == "All" else picked_df
-    index_list = chosen_df.index.to_list()
-
-    rec_id = main_middle.empty()
-
-    if "receipt_number" not in st.session_state:  # Initilaize State of receipt_number
-        st.session_state.receipt_number = 0
-        position = 0
-
-    else:
-        try:
-            position = index_list.index(st.session_state.receipt_number)
-        except ValueError:
-            position = 0
+    receipt_id = main_middle.selectbox(
+        "", index_list, index=st.session_state.receipt_position
+    )
+    st.session_state.receipt_position = index_list.index(receipt_id)
 
     # Previous Button Behavior
-    if (
-        "last_receipt_button" not in st.session_state
-    ):  # Initialize State of prev_receipt
-        st.session_state.last_receipt_button = None
-
-    main_right.write(position)
-    if (position - 1) > 0:
+    if (st.session_state.receipt_position - 1) >= 0:
         if main_left.button("Previous"):
-            st.session_state.last_receipt_button = "prev"
-            position -= 1
-    else:
-        if st.session_state.last_receipt_button == "prev":
-            st.session_state.last_receipt_button = None
-            position -= 1
+            st.session_state.receipt_position -= 1
+            st.experimental_rerun()
 
     # Next Button Behavior
-    if "next_receipt" not in st.session_state:  # Initilaize State of next_receipt
-        st.session_state.next_receipt = False
-
-    if (position + 1) < (len(index_list) - 1):
+    if (st.session_state.receipt_position + 1) < len(index_list):
         if main_middle.button("Next"):
-            st.session_state.last_receipt_button = "next"
-            position += 1
-    else:
-        if st.session_state.last_receipt_button == "next":
-            position += 1
-            st.session_state.last_receipt_button = None
+            st.session_state.receipt_position += 1
+            st.experimental_rerun()
 
-    receipt_id = rec_id.selectbox("", index_list, index=position)
-
-    st.session_state.receipt_number = receipt_id
     main_right.table(dff.iloc[[receipt_id]])
 
     row = dff.iloc[receipt_id]
@@ -958,24 +928,39 @@ def anchor_point(name):
     st.markdown(f"<div id='{name}'></div>", unsafe_allow_html=True)
 
 
-def main_with_expansions():
+def main():
 
-    expansion_calculator = st.expander("Calculator")
-    calculator(expansion=expansion_calculator)
+    s = "Calculator"
+    ex_calculator = st.expander(s)
+    calculator(expansion=ex_calculator)
 
-    prep_files()
+    prep_files()  # Cache
+    df_main = get_df()  # Cache
 
-    df_main = get_df()
+    s = "Filters"
+    ex_filters = st.expander(s, expanded=True)
+    df, date_agg, range_or_single = filters(
+        df_main,
+        expansion=ex_filters,
+    )
 
-    ex_filters = st.expander("Filters", expanded=True)
-    df, date_agg, range_or_single = filters(df_main, ex_filters)
-
-    ex_graph = st.expander("Graph", expanded=True)
+    # Graph Date and Fig placeholder
+    s = "Graph"
+    ex_graph = st.expander(s, expanded=True)
+    if "Date" not in st.session_state.filters_selected:
+        df, date_agg, range_or_single = date_filter_on_graph(
+            df,
+            expansion=ex_graph,
+        )
 
     graph_df = get_df_running_totals(df)  # TODO
 
-    ex_columns = st.expander("Columns")
-    show_cols = columns_to_show(df_main, expansion=ex_columns)
+    s = "Columns"
+    ex_columns = st.expander(s)
+    show_cols = columns_to_show(
+        df_main,
+        expansion=ex_columns,
+    )
 
     # Accounts found in main df
     accounts = sorted(df["fileacct"].unique())
@@ -990,7 +975,7 @@ def main_with_expansions():
     )
     if picked:
         st.title("Picked")
-        st.dataframe(picked_df)
+        st.dataframe(picked_df.style.format({"Price": "{:.2f}"}))
 
     try:
         rt = graph_df["Running Total"].iloc[-1]
@@ -999,7 +984,7 @@ def main_with_expansions():
 
     header = f"RT: All ({rt:,.2f})"
     st.header(header)
-    st.dataframe(graph_df[show_cols])
+    st.dataframe(graph_df[show_cols].style.format({"Price": "{:.2f}"}))
 
     # filtered for graph
     picked_df = graph_df[graph_df["fileacct"].isin(picked)] if picked else graph_df
@@ -1007,8 +992,13 @@ def main_with_expansions():
     fig = chart_altair_hist(picked_df, agg=date_agg, range_type=range_or_single)
     ex_graph.altair_chart(fig, use_container_width=True)
 
-    ex_receipts = st.expander("See Receipts")
-    view_receipts2(df_main, picked_df, expansion=ex_receipts)
+    s = "See Receipts"
+    ex_receipts = st.expander(s)
+    view_receipts(
+        df_main,
+        picked_df,
+        expansion=ex_receipts,
+    )
 
 
 if __name__ == "__main__":
@@ -1018,9 +1008,4 @@ if __name__ == "__main__":
 
     st.title("Mozi Finances")
 
-    use_expansions = st.sidebar.checkbox("Show in Expansions", value=True)
-
-    if use_expansions:
-        main_with_expansions()
-    # else:
-    #     main()
+    main()

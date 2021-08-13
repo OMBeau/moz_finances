@@ -14,8 +14,6 @@ from dateutil import parser
 from PIL import Image
 from PyPDF2 import PdfFileReader
 
-# from SessionState import _get_state
-
 
 data_fld = "data"
 raw_fld = os.path.join(data_fld, "raw")

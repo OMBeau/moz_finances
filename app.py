@@ -1,21 +1,21 @@
-import streamlit as st
-import altair as alt
 import base64
-from PyPDF2 import PdfFileReader
-from PIL import Image
+import calendar
+import glob
+import os
+import shutil
+import unicodedata
+
+import altair as alt
 import fitz
+import pandas as pd
+import plotly.express as px
+import streamlit as st
+from dateutil import parser
+from PIL import Image
+from PyPDF2 import PdfFileReader
 
 # from SessionState import _get_state
 
-import os
-import shutil
-import calendar
-import glob
-import pandas as pd
-import plotly.express as px
-
-# import chardet
-from dateutil import parser
 
 data_fld = "data"
 raw_fld = os.path.join(data_fld, "raw")
@@ -134,7 +134,18 @@ def prep_files():  # sourcery no-metrics
                 year = w
                 continue
 
-            # Small edits.
+            # Change Special Characters.
+            try:
+                w = unicode(w, "utf-8")
+            except NameError:  # unicode is a default on python 3
+                pass
+
+            w = (
+                unicodedata.normalize("NFD", w)
+                .encode("ascii", "ignore")
+                .decode("utf-8")
+            )
+
             if w in ["Associac?a?o", "Associação", "Associacao"]:
                 w = "AAM"
 
